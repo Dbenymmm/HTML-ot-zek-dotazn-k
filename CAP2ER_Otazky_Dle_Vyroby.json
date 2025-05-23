@@ -1,0 +1,4470 @@
+{
+  "Mléčná výroba": {
+    "Další": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "AUT_BL_COUT_PROD",
+        "otazka": "Výrobní náklady na dojnou jednotku (s kalkulačními náklady: zhodnocení vlastněné půdy – vlastní kapitál – práce v rámci hopodářství)"
+      },
+      {
+        "kod": "AUT_BL_CHARPROD_ALIM",
+        "otazka": "Náklady na krmivo v dojné jednotce / Výrobky z dojné jednotky (s kalkulačními náklady: zhodnocení vlastněné půdy – Vlastní kapitál – práce vrámci hospodářství)"
+      },
+      {
+        "kod": "AUT_BL_REMTPERMI",
+        "otazka": "Příjem na pracovní jednotku (WU)"
+      },
+      {
+        "kod": "AUT_BV_COUT_PROD",
+        "otazka": "Výrobní náklady masné jednotky (s kalkulačními náklady: zhodnocení vlastněné půdy – vlastní kapitál – práce v rámci hopodářství)"
+      },
+      {
+        "kod": "AUT_BV_CHARPROD_ALIM",
+        "otazka": "Hrubé rozpětí jednotky (Výnosy – provozní náklady)"
+      },
+      {
+        "kod": "AUT_BV_REMTPERMI",
+        "otazka": "Příjem na pracovní jednotku (WU)"
+      },
+      {
+        "kod": "AUT_CA_PRODUIT_TOTAL",
+        "otazka": "Celková produkce"
+      },
+      {
+        "kod": "AUT_CA_COUT_PROD",
+        "otazka": "Výrobní náklady"
+      },
+      {
+        "kod": "AUT_CA_REMBRUTE",
+        "otazka": "Hrubá mzda"
+      },
+      {
+        "kod": "AUT_CA_LAIT_UMO",
+        "otazka": "Celkový objem prodaného mléka (včetně přímo prodaného zpracovaného mléka)"
+      },
+      {
+        "kod": "AUT_CA_REM_MO",
+        "otazka": "Čistá mzda"
+      },
+      {
+        "kod": "AUT_CA_REM_SMIC_MO",
+        "otazka": "Čistá mzda"
+      },
+      {
+        "kod": "AUT_CA_EL",
+        "otazka": "Spokojenost odpovědné osoby s ekonomickou situací hospodářství? (skóre od 0 do 10)"
+      },
+      {
+        "kod": "AUT_EBEPB",
+        "otazka": "Hrubý provozní přebytek/hrubá produkce hospodářství (bez mezd)"
+      },
+      {
+        "kod": "AUT_DISPOEXPLUMO",
+        "otazka": "Disponibilní příjem podniku (včetně odměny společníků u společností)"
+      },
+      {
+        "kod": "AUT_CONT",
+        "otazka": "Obecně jsem spokojený/á s pracovními podmínkami v mém hospodářství"
+      },
+      {
+        "kod": "AUT_VOLT",
+        "otazka": "Celkový objem práce na hospodářství je přijatelný"
+      },
+      {
+        "kod": "AUT_TROUPEAUT",
+        "otazka": "Denní zátěž související se stádem je přijatelná"
+      },
+      {
+        "kod": "AUT_PENIBILITET",
+        "otazka": "Fyzická náročnost práce na mém hospodářství je přijatelná"
+      },
+      {
+        "kod": "AUT_CHARGET",
+        "otazka": "I v hlavní sezóně je pracovní zátěž přijatelná"
+      },
+      {
+        "kod": "AUT_TEMPSLIBRE",
+        "otazka": "Zvládnu si během dne i v týdnu vzít volno, kdy chci."
+      },
+      {
+        "kod": "AUT_CONGES",
+        "otazka": "Na víkend nebo na dovolenou můžu odjet, jak chci."
+      },
+      {
+        "kod": "AUT_CONT_COM",
+        "otazka": "Celkově jsem spokojen se svými pracovními podmínkami"
+      },
+      {
+        "kod": "AUT_VOLT_COM",
+        "otazka": "Celkový objem práce na hospodářství je přijatelný"
+      },
+      {
+        "kod": "AUT_TROUPEAUT_COM",
+        "otazka": "Denní zátěž související s chovem je přijatelná"
+      },
+      {
+        "kod": "AUT_PENIBILITET_COM",
+        "otazka": "Fyzická náročnost práce na mém hospodářství je přijatelná"
+      },
+      {
+        "kod": "AUT_CHARGET_COM",
+        "otazka": "I v hlavní sezóně je pracovní zátěž přijatelná"
+      },
+      {
+        "kod": "AUT_TEMPSLIBRE_COM",
+        "otazka": "Zvládnu si během dne i v týdnu vzít volno, kdy chci."
+      },
+      {
+        "kod": "AUT_CONGES_COM",
+        "otazka": "Na víkend nebo na dovolenou můžu odjet, jak chci."
+      }
+    ],
+    "Energie CZ": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "ENER_ELEC",
+        "otazka": "Celková spotřeba elektřiny (i pro zpracovatelskou jednotku, pokud tento modul vyplníte)"
+      },
+      {
+        "kod": "ENER_ELEC_TRANSFO_ON",
+        "otazka": "Máte samostatný elektroměr pro zpracovatelskou jednotku?"
+      },
+      {
+        "kod": "ENER_ELEC_REEL_TRANSFO",
+        "otazka": "Kolik elektřiny spotřebuje zpracovatelská jednotka?"
+      },
+      {
+        "kod": "ENER_ELEC_ESTIM_TRANSFO",
+        "otazka": "Z toho spotřeba pro zpracovatelskou jednotku"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES_ON",
+        "otazka": "Je spotřeba elektřiny vaší domácnosti na stejném elektroměru jako hospodářství?"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES_TYPE",
+        "otazka": "Jaký typ vytápění používáte?"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES",
+        "otazka": "Z toho spotřeba pro domácnost"
+      },
+      {
+        "kod": "ENER_ELEC_HS_TYPE",
+        "otazka": "Zásobujete svou jednotku nevyžadující půdu (drůbež, prasata) elektřinou?"
+      },
+      {
+        "kod": "ENER_ELEC_HS_ON",
+        "otazka": "Je spotřeba elektřiny jednotkou nevyžadující půdu (drůbež, prasata) vedena na stejném elektroměru jako hospodářství?"
+      },
+      {
+        "kod": "ENER_ELEC_VOLAILLE",
+        "otazka": "Z toho spotřeba jednotky chovu drůbeže"
+      },
+      {
+        "kod": "ENER_ELEC_PORC",
+        "otazka": "Z toho spotřeba jednotky pro chov prasat"
+      },
+      {
+        "kod": "ENER_ELEC_IRR",
+        "otazka": "Včetně spotřeby spojené se závlahou"
+      },
+      {
+        "kod": "ENER_ELEC_RUM",
+        "otazka": "Spotřeba elektrické energie (kromě jednotek nevyžadujících půdu a jednotek domácnosti)"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_ELEVEE_ON",
+        "otazka": "Jsou zde zařízení, která odůvodňují vysokou spotřebu elektřiny?"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_ELEVEE_TYPE1",
+        "otazka": "Typ zařízení"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_FAIBLE_ON",
+        "otazka": "Jsou zde zařízení, která odůvodňují nízkou spotřebu elektřiny?"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_FAIBLE_TYPE1",
+        "otazka": "Typ zařízení"
+      },
+      {
+        "kod": "ENER_GAZ_SECHAGE_ON",
+        "otazka": "Používáte plyn k sušení kukuřičného zrna?"
+      },
+      {
+        "kod": "ENER_GAZ_SECHAGE",
+        "otazka": "Celková spotřeba plynu na sušení kukuřice"
+      },
+      {
+        "kod": "ENER_GAZ_TRANSFO_ON",
+        "otazka": "Používáte plyn pro zpracovatelskou jednotku?  "
+      },
+      {
+        "kod": "ENER_GAZ_TRANSFO",
+        "otazka": "Spotřeba plynu pro zpracovatelskou jednotku  "
+      },
+      {
+        "kod": "ENER_TRANSFO_EAU_COMPTEUR_ON",
+        "otazka": "Máte samostatný vodoměr pro zpracovatelskou jednotku?"
+      },
+      {
+        "kod": "ENER_TRANSFO_EAU_QTE",
+        "otazka": "Spotřeba vody ve zpracovatelské jednotce"
+      },
+      {
+        "kod": "ENER_TOT_EAU_QTE",
+        "otazka": "Spotřeba vody v hospodářství (chov + zpracování) (bez závlah)"
+      },
+      {
+        "kod": "ENER_TRANSFO_SYST_LAVAGE",
+        "otazka": "Systémy mytí"
+      },
+      {
+        "kod": "ENER_CAR",
+        "otazka": "Celková spotřeba pohonných hmot v hospodářství"
+      },
+      {
+        "kod": "ENER_CAR_VOLAILLE",
+        "otazka": "Z toho spotřeba jednotky chovu drůbeže"
+      },
+      {
+        "kod": "ENER_CAR_PORC",
+        "otazka": "Z toho spotřeba jednotky pro chov prasat"
+      },
+      {
+        "kod": "ENER_CAR_IRR",
+        "otazka": "Včetně spotřeby spojené se závlahou"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1",
+        "otazka": "Práce třetích stran"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1_HEURES",
+        "otazka": "Počet odpracovaných hodin"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1_HA",
+        "otazka": "Počet obdělaných hektarů"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TOT",
+        "otazka": "Spotřeba pohonných hmot na práce prováděné třetími stranami"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1",
+        "otazka": "Práce pro třetí strany"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1_HEURES",
+        "otazka": "Počet odpracovaných hodin"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1_HA",
+        "otazka": "Počet obdělaných hektarů"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TOT",
+        "otazka": "Spotřeba pohonných hmot na práce prováděné pro třetí strany"
+      },
+      {
+        "kod": "ENER_CAR_TOT",
+        "otazka": "Spotřeba elektrické energie (kromě jednotek nevyžadujících půdu a jednotek domácnosti)"
+      },
+      {
+        "kod": "ENER_COMMERCE_CIRCUIT1",
+        "otazka": "Typ obchodního kanálu (1 až 4)"
+      },
+      {
+        "kod": "ENER_COMMERCE_CIRCUIT1_PART",
+        "otazka": "% z objemu"
+      },
+      {
+        "kod": "ENER_COMMERCE_CONSO_CARBU",
+        "otazka": "Spotřeba paliva na distribuci zpracovaných produktů (mimo nesilniční typ nafty)"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_ON",
+        "otazka": "Máte fotovoltaické panely?"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_M2",
+        "otazka": "Jakou plochu představují?"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_KWH",
+        "otazka": "Jaký je objem výroby?"
+      },
+      {
+        "kod": "ENER_METHA_ON_2",
+        "otazka": "Používáte BPS?"
+      },
+      {
+        "kod": "ENER_METHA_MJ",
+        "otazka": "Jaký je objem výroby?"
+      },
+      {
+        "kod": "ENER_AUT_TYPE",
+        "otazka": "Další vyrobená obnovitelná energie"
+      },
+      {
+        "kod": "ENER_AUT_MJ",
+        "otazka": "Jaký je objem výroby?"
+      }
+    ],
+    "Plochy": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "SURF_AUT_FOU",
+        "otazka": "Ostatní pícniny"
+      },
+      {
+        "kod": "SURF_DEROBEE",
+        "otazka": "Meziplodina sklízená"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_PAT",
+        "otazka": "Trvalé travní porosty – pasené"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_FAU",
+        "otazka": "Trvalé travní porosty – sečené"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_PATFAU",
+        "otazka": "Trvalé travní porosty – sečené i pasené"
+      },
+      {
+        "kod": "SURF_HA_PT_R_GRAM",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných čistých travin"
+      },
+      {
+        "kod": "SURF_HA_PT_R",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných travin a leguminóz (jetelotráva)"
+      },
+      {
+        "kod": "SURF_HA_PT_R_LEG",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných čistých leguminóz (vojtěška, jetel atd.) "
+      },
+      {
+        "kod": "SURF_HA_MAIS_ENS",
+        "otazka": "Kukuřice na siláž"
+      },
+      {
+        "kod": "SURF_HA_AUT_FOU",
+        "otazka": "Ostatní pícniny"
+      },
+      {
+        "kod": "SURF_HA_PAST_IND",
+        "otazka": "Individuální pastviny"
+      },
+      {
+        "kod": "SURF_HA_PAST_COLL",
+        "otazka": "Skupinové pastviny"
+      },
+      {
+        "kod": "SURF_HA_ADD",
+        "otazka": "Další plochy"
+      },
+      {
+        "kod": "SURF_HA_DEROBEE",
+        "otazka": "Meziplodina sklízená"
+      },
+      {
+        "kod": "SURF_HA_CIPAN",
+        "otazka": "Plodiny vázající dusík"
+      },
+      {
+        "kod": "SURF_RDT_MAIS_ENS",
+        "otazka": "Výnos kukuřice na siláž"
+      },
+      {
+        "kod": "SURF_RDT_AUT_FOU",
+        "otazka": "Výnos jiné pícniny"
+      },
+      {
+        "kod": "SURF_RDT_DEROBEE",
+        "otazka": "Výnos meziplodiny sklízené"
+      },
+      {
+        "kod": "SURF_RDT_CIPAN",
+        "otazka": "Výnos plodin vázajících dusík"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_PAT",
+        "otazka": "% Leguminóz – Trvalé travní porosty – pasené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_FAU",
+        "otazka": "% Leguminóz – Trvalé travní porosty – sečené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_PATFAU",
+        "otazka": "% Leguminóz – Trvalé travní porosty – sečené i pasené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R_GRAM",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných čistých travin"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných travin a leguminóz"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R_LEG",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných čistých leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "SURF_PARTLEG_PAST_IND",
+        "otazka": "% Leguminóz – Individuální pastviny"
+      },
+      {
+        "kod": "SURF_PARTLEG_PAST_COLL",
+        "otazka": "% Leguminóz – Skupinové pastviny"
+      },
+      {
+        "kod": "SURF_PARTLEG_ADD",
+        "otazka": "% Leguminóz – Další plochy"
+      },
+      {
+        "kod": "SURF_AUT_CULT",
+        "otazka": "Ostatní plodiny"
+      },
+      {
+        "kod": "SURF_HA_CER",
+        "otazka": "Obilniny (pšenice, tritikale, ječmen…)"
+      },
+      {
+        "kod": "SURF_HA_MAIS_GRAIN",
+        "otazka": "Kukuřice na zrno"
+      },
+      {
+        "kod": "SURF_HA_PROT",
+        "otazka": "Bílkovinné plodiny (hrách…)"
+      },
+      {
+        "kod": "SURF_HA_OLEA",
+        "otazka": "Olejniny (řepka, slunečnice…)"
+      },
+      {
+        "kod": "SURF_HA_AUT_CULT_1",
+        "otazka": "Jiná plodina"
+      },
+      {
+        "kod": "SURF_RDT_CER",
+        "otazka": "Výnos obilnin (pšenice, tritikale, ječmen…)"
+      },
+      {
+        "kod": "SURF_RDT_MAIS_GRAIN",
+        "otazka": "Výnos kukuřice na zrno"
+      },
+      {
+        "kod": "SURF_RDT_PROT",
+        "otazka": "Výnos bílkovinných plodin (hrách…)"
+      },
+      {
+        "kod": "SURF_RDT_OLEA",
+        "otazka": "Výnos olejnin (řepka, slunečnice…)"
+      },
+      {
+        "kod": "SURF_RDT_AUT_CULT_1",
+        "otazka": "Výnos ostatní plodiny"
+      },
+      {
+        "kod": "SURF_AMMO",
+        "otazka": "Dusičnan amonný – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_SOLN",
+        "otazka": "Kapalné dusíkaté hnojivo – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_UREE",
+        "otazka": "Močovina – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AUTN",
+        "otazka": "Jiná dusíkatá hnojiva – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_P2O5",
+        "otazka": "Minerální fosfor – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_K2O",
+        "otazka": "Minerální draslík – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_ACHAT",
+        "otazka": "Dusičnan amonný – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_ACHAT",
+        "otazka": "Kapalné dusíkaté hnojivo – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_UREE_QTE_ACHAT",
+        "otazka": "Močovina – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_ACHAT",
+        "otazka": "Jiná dusíkatá hnojiva – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_ACHAT",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_ACHAT",
+        "otazka": "Minerální fosfor – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_K2O_QTE_ACHAT",
+        "otazka": "Minerální draslík – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_CONSO",
+        "otazka": "Dusičnan amonný – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_CONSO",
+        "otazka": "Kapalné dusíkaté hnojivo – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_UREE_QTE_CONSO",
+        "otazka": "Močovina – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_CONSO",
+        "otazka": "Jiná dusíkatá hnojiva – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_CONSO",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_CONSO",
+        "otazka": "Minerální fosfor – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_K2O_QTE_CONSO",
+        "otazka": "Minerální draslík – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_DISPO",
+        "otazka": "Dusičnan amonný – Zbývající množství"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_DISPO",
+        "otazka": "Kapalné dusíkaté hnojivo – Zbývající množství"
+      },
+      {
+        "kod": "SURF_UREE_QTE_DISPO",
+        "otazka": "Močovina – Zbývající množství"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_DISPO",
+        "otazka": "Jiná dusíkatá hnojiva – Zbývající množství"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_DISPO",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Zbývající množství"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_DISPO",
+        "otazka": "Minerální fosfor – Zbývající množství"
+      },
+      {
+        "kod": "SURF_K2O_QTE_DISPO",
+        "otazka": "Minerální draslík – Zbývající množství"
+      },
+      {
+        "kod": "SURF_EFF1_TYPE",
+        "otazka": "Aplikovaná odpadní látka"
+      },
+      {
+        "kod": "SURF_EFF1_QTE",
+        "otazka": "Aplikované množství"
+      },
+      {
+        "kod": "SURF_EFF1_HA",
+        "otazka": "Ošetřená plocha"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_DISPO",
+        "otazka": "Dostupné množství"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_CONSO",
+        "otazka": "Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_RES",
+        "otazka": "Zbývající množství"
+      },
+      {
+        "kod": "SURF_HA_LABOUREES",
+        "otazka": "Plochy, které byly během roku alespoň jednou orané"
+      },
+      {
+        "kod": "SURF_MO_HA",
+        "otazka": "Plochy upravené organickou hmotou"
+      },
+      {
+        "kod": "SURF_MONO_CULT_HA",
+        "otazka": "Plochy obhospodařované v monokulturách (3 roky)"
+      },
+      {
+        "kod": "SURF_NON_PHYTO_HA",
+        "otazka": "Plochy neošetřené přípravky na ochranu rostlin"
+      },
+      {
+        "kod": "SURF_DESHERB_MECA_HA",
+        "otazka": "Plochy mechanicky odplevelené"
+      },
+      {
+        "kod": "SURF_NB_SYS_CULTURE",
+        "otazka": "Počet pěstebních systémů včetně trvalých kultur"
+      },
+      {
+        "kod": "SURF_DUREE_MOY_ROTATIONS",
+        "otazka": "Průměrná doba střídání plodin"
+      },
+      {
+        "kod": "SURF_MODULE_AGRO_O_N",
+        "otazka": "Přejete si vyplnit modul agronomie?"
+      },
+      {
+        "kod": "SURF_IRRIG_M3_HA",
+        "otazka": "Závlahy – Množství dodané vody"
+      },
+      {
+        "kod": "SURF_IRRIG_HA",
+        "otazka": "Závlahy – závlažovaná plocha"
+      },
+      {
+        "kod": "SURF_IFT_HERBI",
+        "otazka": "Ukazatel frekvence ošetření herbicidem IFT"
+      },
+      {
+        "kod": "SURF_IFT_TOT",
+        "otazka": "Ukazatel frekvence celkového ošetření IFT"
+      },
+      {
+        "kod": "SURF_NB_HA_OUTIL",
+        "otazka": "Průměrný počet přejezdů techniky přepočtený na hektary"
+      },
+      {
+        "kod": "SURF_COUV_SOL_POURC",
+        "otazka": "% půdního pokryvu"
+      },
+      {
+        "kod": "SURF_HA_SAU",
+        "otazka": "Využívaná zemědělská plocha (VZP)"
+      },
+      {
+        "kod": "SURF_HA_SFP",
+        "otazka": "Hlavní krmná plocha (HKP)"
+      },
+      {
+        "kod": "SURF_HA_SAU_OV",
+        "otazka": "VZP jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_SFP_OV",
+        "otazka": "HKP jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_PAST_IND_OV",
+        "otazka": "Individuální pastviny jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_PAST_COLL_OV",
+        "otazka": "Společné pastviny jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_HERBE",
+        "otazka": "Travní plocha"
+      },
+      {
+        "kod": "SURF_HA_CULT_TOT",
+        "otazka": "Plocha polních plodin"
+      },
+      {
+        "kod": "SURF_EPANDABLE",
+        "otazka": "Plocha určená k aplikaci hnojiv"
+      },
+      {
+        "kod": "SURF_HA_ROTATION",
+        "otazka": "Plocha travních porostů vyhrazená pro střídání plodin"
+      },
+      {
+        "kod": "SURF_DUREE_ROTATION",
+        "otazka": "Celková doba střídání plodin"
+      },
+      {
+        "kod": "SURF_DUREE_ROTATION_PRAIRIES",
+        "otazka": "Doba, po kterou jsou zavedeny travní porosty"
+      },
+      {
+        "kod": "SURF_PAILLE_RECOLTE",
+        "otazka": "Množství sklizené slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_VEND",
+        "otazka": "Z toho prodané množství slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_ACHAT",
+        "otazka": "Nakoupené množství slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_DISPO",
+        "otazka": "Celkové množství slámy dostupné pro zvířata"
+      },
+      {
+        "kod": "SURF_PAILLE_RATION",
+        "otazka": "Je sláma součástí krmné dávky zvířat?"
+      },
+      {
+        "kod": "SURF_IAE_PP_NATURA",
+        "otazka": "Přirozené pastviny v  chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_PP_HORS_NATURA",
+        "otazka": "Přirozené pastviny mimo chráněnou oblast Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_BTAMPONS",
+        "otazka": "Ochranné pásy"
+      },
+      {
+        "kod": "SURF_IAE_VERGER",
+        "otazka": "Vysokokmenné ovocné sady"
+      },
+      {
+        "kod": "SURF_IAE_SP_NATURA",
+        "otazka": "Pastviny v chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_SP_HORS_NATURA",
+        "otazka": "Pastviny mimo chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_JACHERE",
+        "otazka": "Úhory"
+      },
+      {
+        "kod": "SURF_IAE_TOURBIERE",
+        "otazka": "Rašeliniště"
+      },
+      {
+        "kod": "SURF_IAE_ZONE_HER",
+        "otazka": "Plochy s bylinným pokryvem vyřazené z produkce"
+      },
+      {
+        "kod": "SURF_IAE_BORDURE",
+        "otazka": "Okraje polí"
+      },
+      {
+        "kod": "SURF_IAE_BORDURE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_AGROFORES",
+        "otazka": "Agrolesnictví a liniová výsadba stromů"
+      },
+      {
+        "kod": "SURF_IAE_AGROFORES_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_BOSQUET",
+        "otazka": "remízky"
+      },
+      {
+        "kod": "SURF_IAE_BOSQUET_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_BOIS",
+        "otazka": "Okraje lesa, skupiny stromů"
+      },
+      {
+        "kod": "SURF_IAE_BOIS_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_ARBRE",
+        "otazka": "Solitéry (jednotlivé stromy)"
+      },
+      {
+        "kod": "SURF_IAE_ARBRE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_HAIE",
+        "otazka": "Meze"
+      },
+      {
+        "kod": "SURF_IAE_HAIE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_FOSSE",
+        "otazka": "Příkopy, vodní toky"
+      },
+      {
+        "kod": "SURF_IAE_FOSSE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_MARE",
+        "otazka": "Tůně"
+      },
+      {
+        "kod": "SURF_IAE_MARE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_MURET",
+        "otazka": "Zídky, terasy"
+      },
+      {
+        "kod": "SURF_IAE_MURET_PP",
+        "otazka": "% přiřazené k travním plochám"
+      }
+    ],
+    "Stáda": [
+      {
+        "kod": "TROUP_RACE1_BL",
+        "otazka": "Mléčné plemeno"
+      },
+      {
+        "kod": "TROUP_PART_RACE_1_BL",
+        "otazka": "% podíl plemene"
+      },
+      {
+        "kod": "TROUP_NB_VL",
+        "otazka": "Dojnice"
+      },
+      {
+        "kod": "TROUP_NB_G1_BL",
+        "otazka": "Jalovice dojné 0–1 rok"
+      },
+      {
+        "kod": "TROUP_NB_G2_BL",
+        "otazka": "Jalovice dojné 1–2 roky"
+      },
+      {
+        "kod": "TROUP_NB_G3_BL",
+        "otazka": "Jalovice dojné 2–3 roky"
+      },
+      {
+        "kod": "TROUP_NB_G4_BL",
+        "otazka": "Jalovice dojné >3 roky"
+      },
+      {
+        "kod": "TROUP_NB_TX_BL",
+        "otazka": "Býci mléčných plemen"
+      },
+      {
+        "kod": "TROUP_EFF_DEB",
+        "otazka": "Počáteční stav"
+      },
+      {
+        "kod": "TROUP_EFF_FIN",
+        "otazka": "Konečný stav"
+      },
+      {
+        "kod": "TROUP_POIDS_VL",
+        "otazka": "Průměrná živá hmotnost dojnic"
+      },
+      {
+        "kod": "TROUP_POIDS_G1_BL",
+        "otazka": "Průměrná živá hmotnost dojných jalovic 0–1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_G2_BL",
+        "otazka": "Průměrná živá hmotnost dojných jalovic 1–2 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_G3_BL",
+        "otazka": "Průměrná živá hmotnost dojných jalovic 2–3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_G4_BL",
+        "otazka": "Průměrná živá hmotnost dojných jalovic >3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_TX_BL",
+        "otazka": "Průměrná živá hmotnost býků mléčných plemen"
+      },
+      {
+        "kod": "TROUP_AVL_BL",
+        "otazka": "Nákupy: počet dojnic v laktaci"
+      },
+      {
+        "kod": "TROUP_AVEAUX_BL",
+        "otazka": "Nákupy: počet jaloviček"
+      },
+      {
+        "kod": "TROUP_AG1_BL",
+        "otazka": "Nákupy: počet dojných jalovic 0-1 rok (vyjma telat)"
+      },
+      {
+        "kod": "TROUP_AG2_BL",
+        "otazka": "Nákupy: počet dojných jalovic 1 -2 roky"
+      },
+      {
+        "kod": "TROUP_AG3_BL",
+        "otazka": "Nákupy: počet dojných jalovic  >2 roky"
+      },
+      {
+        "kod": "TROUP_ATX_BL",
+        "otazka": "Nákupy: počet dojných býků"
+      },
+      {
+        "kod": "TROUP_POIDS_AVL_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet brakovaných dojnic"
+      },
+      {
+        "kod": "TROUP_POIDS_AVEAUX_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet dojnic v laktaci"
+      },
+      {
+        "kod": "TROUP_POIDS_AG1_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet jaloviček "
+      },
+      {
+        "kod": "TROUP_POIDS_AG2_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet jaloviček prodaných do jednotky masného skotu "
+      },
+      {
+        "kod": "TROUP_POIDS_AG3_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet dojných jalovic 0-1 rok (vyjma telat)"
+      },
+      {
+        "kod": "TROUP_POIDS_ATX_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet dojných jalovic 1-2 roky"
+      },
+      {
+        "kod": "TROUP_VVR_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet dojných jalovic > 2 roky"
+      },
+      {
+        "kod": "TROUP_VVL_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet býčků"
+      },
+      {
+        "kod": "TROUP_VVEAUX_FEM_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): počet býčků prodaných do jednotky masného skotu"
+      },
+      {
+        "kod": "TROUP_VG1_BL_ENG",
+        "otazka": "Prodeje (nebo interní spotřeba): počet dojných býků"
+      },
+      {
+        "kod": "TROUP_VG1_BL",
+        "otazka": "Nákupy: dojnice v laktaci podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_VG2_BL",
+        "otazka": "Nákupy: jalovičky podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_VG3_BL",
+        "otazka": "Nákupy: dojné jalovice 0-1 rok podle živé hmotnosti (vyjma telat)"
+      },
+      {
+        "kod": "TROUP_VM1_BL_VENDUS",
+        "otazka": "Nákupy: dojné jalovice 1 - 2 roky podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_VM1_BL_ENG",
+        "otazka": "Nákupy: dojné jalovice  >2 roky  podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_VTX_BL",
+        "otazka": "Nákupy: dojní býci podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VVR_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): brakované dojnice podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VVL_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): dojnice v laktaci podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VVEAUX_FEM_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): jalovičky podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VG1_BL_ENG",
+        "otazka": "Prodeje (nebo interní spotřeba): jalovičky prodané do jednotky masného skotu podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VG1_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): dojné jalovice 0-1 rok prodané do jednotky masného skotu podle živé hmotnosti (vyjma telat)"
+      },
+      {
+        "kod": "TROUP_POIDS_VG2_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): dojné jalovice 1-2 roky podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VG3_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): dojné jalovice 2 - 3 roky podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VM1_BL_VENDUS",
+        "otazka": "Prodeje (nebo interní spotřeba): býčci podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VM1_BL_ENG",
+        "otazka": "Prodeje (nebo interní spotřeba): býčci prodaní do jednotky masného skotu podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_POIDS_VTX_BL",
+        "otazka": "Prodeje (nebo interní spotřeba): dojní býci podle živé hmotnosti"
+      },
+      {
+        "kod": "TROUP_BL_LAIT_VENDU",
+        "otazka": "Celkové prodané mléko (včetně mléka zpracovaného v hospodářství"
+      },
+      {
+        "kod": "TROUP_BL_LAIT_AUTO",
+        "otazka": "Mléko podávané telatům / samospotřebované / vyřazené"
+      },
+      {
+        "kod": "TROUP_BL_LAIT_PROD",
+        "otazka": "Vyprodukované mléko"
+      },
+      {
+        "kod": "TROUP_BL_TB",
+        "otazka": "Obsah tuku"
+      },
+      {
+        "kod": "TROUP_BL_TP",
+        "otazka": "Obsah bílkovin"
+      },
+      {
+        "kod": "TROUP_BL_NOMBRE_VELAGE",
+        "otazka": "Počet otelení"
+      },
+      {
+        "kod": "TROUP_AGE_VELAGE_BL",
+        "otazka": "Průměrný věk při prvním otelení"
+      },
+      {
+        "kod": "TROUP_BL_VELAGE",
+        "otazka": "Období telení"
+      },
+      {
+        "kod": "TROUP_BL_TX_RENOUV",
+        "otazka": "Obnova stáda"
+      },
+      {
+        "kod": "TROUP_BL_PERTES_VEAUX",
+        "otazka": "Úhyn telat"
+      },
+      {
+        "kod": "TROUP_BL_PERTES_ADULTES",
+        "otazka": "Ztráty dospělých zvířat"
+      },
+      {
+        "kod": "TROUP_BL_TX_MAMMITES",
+        "otazka": "Výskyt mastitid"
+      },
+      {
+        "kod": "TROUP_BL_TX_BOITERIES",
+        "otazka": "Výskyt kulhání"
+      },
+      {
+        "kod": "TROUP_BL_TX_1IA",
+        "otazka": "Plodnost krav: % úspěšnosti při první inseminaci"
+      },
+      {
+        "kod": "TROUP_BL_TX_3IA",
+        "otazka": "Plodnost krav: % samic s 3 a více inseminacemi"
+      },
+      {
+        "kod": "TROUP_BL_IVV",
+        "otazka": "Interval mezi oteleními"
+      },
+      {
+        "kod": "TROUP_BL_NB_LAC",
+        "otazka": "Průměrný počet laktací na krávu"
+      },
+      {
+        "kod": "TROUP_BL_CCI300",
+        "otazka": "% dojnic s počtem somatických buněk <300"
+      },
+      {
+        "kod": "TROUP_BL_CCI800",
+        "otazka": "% dojnic s počtem somatických buněk >800"
+      },
+      {
+        "kod": "TROUP_BL_CELLULES",
+        "otazka": "Roční průměr počtu somatických buněk v nádrži na mléko"
+      },
+      {
+        "kod": "TROUP_BL_UGB",
+        "otazka": "Počet VDJ v dojné jednotce"
+      },
+      {
+        "kod": "TROUP_PL_CORRIGEE",
+        "otazka": "Produkce mléka korigovaná na obsah tuku a bílkovin (OT/OB)"
+      },
+      {
+        "kod": "TROUP_PL_VL",
+        "otazka": "Hrubá mléčná produkce na krávu"
+      },
+      {
+        "kod": "TROUP_BL_PBVV_TOT",
+        "otazka": "Hrubá produkce živé hmotnosti mléčné jednotky"
+      },
+      {
+        "kod": "TROUP_BL_PBVV_TOT_UGB",
+        "otazka": "Hrubá produkce živé hmotnosti dojné jednotky"
+      },
+      {
+        "kod": "TROUP_RACE1_BV",
+        "otazka": "Masné plemeno"
+      },
+      {
+        "kod": "TROUP_PART_RACE_1_BV",
+        "otazka": "% podíl plemene"
+      },
+      {
+        "kod": "TROUP_NB_VA",
+        "otazka": "Krávy masného typu"
+      },
+      {
+        "kod": "TROUP_NB_G1_BV",
+        "otazka": "Jalovice 0–1 rok"
+      },
+      {
+        "kod": "TROUP_NB_G2_BV",
+        "otazka": "Jalovice 1–2 roky"
+      },
+      {
+        "kod": "TROUP_NB_G3_BV",
+        "otazka": "Jalovice 2–3 roky"
+      },
+      {
+        "kod": "TROUP_NB_G4_BV",
+        "otazka": "Jalovice >3 roky"
+      },
+      {
+        "kod": "TROUP_NB_M1_BV",
+        "otazka": "Masní býci 0–1 rok"
+      },
+      {
+        "kod": "TROUP_NB_M2_BV",
+        "otazka": "Masní býci 1–2 roky"
+      },
+      {
+        "kod": "TROUP_NB_M3_BV",
+        "otazka": "Masní býci 2–3 roky"
+      },
+      {
+        "kod": "TROUP_NB_M4_BV",
+        "otazka": "Masní býci >3 roky"
+      },
+      {
+        "kod": "TROUP_NB_M1_BL",
+        "otazka": "Býčci dojných plemen 0–1 rok"
+      },
+      {
+        "kod": "TROUP_NB_M2_BL",
+        "otazka": "Býčci dojných plemen 1–2 roky"
+      },
+      {
+        "kod": "TROUP_NB_M3_BL",
+        "otazka": "Býčci dojných plemen 2–3 roky"
+      },
+      {
+        "kod": "TROUP_NB_M4_BL",
+        "otazka": "Býčci dojných plemen >3 roky"
+      },
+      {
+        "kod": "TROUP_EFF_DEB",
+        "otazka": "Počáteční stav"
+      },
+      {
+        "kod": "TROUP_EFF_FIN",
+        "otazka": "Konečný stav"
+      },
+      {
+        "kod": "TROUP_POIDS_VA",
+        "otazka": "Hmotnost krav masného typu"
+      },
+      {
+        "kod": "TROUP_POIDS_G1_BV",
+        "otazka": "Hmotnost jalovic 0–1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_G2_BV",
+        "otazka": "Hmotnost jalovic 1–2 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_G3_BV",
+        "otazka": "Hmotnost jalovic 2–3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_G4_BV",
+        "otazka": "Hmotnost jalovic >3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M1_BV",
+        "otazka": "Hmotnost masných býků 0–1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_M2_BV",
+        "otazka": "Hmotnost masných býků 1–2 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M3_BV",
+        "otazka": "Hmotnost masných býků 2–3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M4_BV",
+        "otazka": "Hmotnost masných býků >3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M1_BL",
+        "otazka": "Hmotnost dojných samců 0–1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_M2_BL",
+        "otazka": "Hmotnost dojných samců 1–2 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M3_BL",
+        "otazka": "Hmotnost dojných samců 2–3 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_M4_BL",
+        "otazka": "Hmotnost dojných samců >3 roky"
+      },
+      {
+        "kod": "TROUP_AVEAUX_BV",
+        "otazka": "Nákupy: počet telat (narozených, odstavených)"
+      },
+      {
+        "kod": "TROUP_AM1_BV",
+        "otazka": "Nákupy: počet masných býků ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AM1_REP_BV",
+        "otazka": "Nákupy: počet odstavených býků ve výkrmu 0-1 rok"
+      },
+      {
+        "kod": "TROUP_AG1_BV",
+        "otazka": "Nákupy: počet masných jalovic ve výrkmu"
+      },
+      {
+        "kod": "TROUP_AG1_REP_BV",
+        "otazka": "Nákupy: počet odstavených masných jalovic"
+      },
+      {
+        "kod": "TROUP_AG_MAIGRE_BV",
+        "otazka": "Nákupy: počet jalovic ve výkrmu 0-1 rok "
+      },
+      {
+        "kod": "TROUP_AJB_MAIGRE_BV",
+        "otazka": "Nákupy: počet mladého skotu určeného k výkrmu 1-2 roky"
+      },
+      {
+        "kod": "TROUP_AVA_BV",
+        "otazka": "Nákupy: počet připouštěných krav"
+      },
+      {
+        "kod": "TROUP_AM_MAIGRE_BV",
+        "otazka": "Nákupy: počet býčků určených k výkrmu"
+      },
+      {
+        "kod": "TROUP_AM_BL",
+        "otazka": "Nákupy: počet telat (mléčného typu – býčci) ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AM1_MAIGRES_BL",
+        "otazka": "Nákupy: počet býčků 0–1 rok mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AM2_MAIGRES_BL",
+        "otazka": "Nákupy: počet býčků 1–2 roky mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AM3_MAIGRES_BL",
+        "otazka": "Nákupy: počet starších býčků mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AVEAUX_BV",
+        "otazka": "Nákupy: počet telat (narozených, odstavených)"
+      },
+      {
+        "kod": "TROUP_POIDS_AM1_BV",
+        "otazka": "Nákupy: hmotnost masných býků ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AM1_REP_BV",
+        "otazka": "Nákupy: hmotnost odstavených masných býků ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AG1_BV",
+        "otazka": "Nákupy: hmotnost masných jalovic ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AG1_REP_BV",
+        "otazka": "Nákupy: hmotnost odstavených masných jalovic ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AG_MAIGRE_BV",
+        "otazka": "Nákupy: hmotnost masných jalovic ve výkrmu 0-1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_AJB_MAIGRE_BV",
+        "otazka": "Nákupy: hmotnost mladého masného skotu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AVA_BV",
+        "otazka": "Nákupy: hmotnost chovných masných krav"
+      },
+      {
+        "kod": "TROUP_POIDS_AM_MAIGRE_BV",
+        "otazka": "Nákupy: hmotnost masných býčků ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AM_BL",
+        "otazka": "Nákupy: hmotnost telat (mléčného typu – býčci) ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AM1_MAIGRES_BL",
+        "otazka": "Nákupy: hmotnost býčků 0–1 rok mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AM2_MAIGRES_BL",
+        "otazka": "Nákupy: hmotnost býčků 1–2 roky mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_AM3_MAIGRES_BL",
+        "otazka": "Nákupy: hmotnost starších býčků mléčného typu ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AGE_AVEAUX_BV",
+        "otazka": "Nákupy: věk masných telat pro výkrm při nákupu (narozená, odstavená) ve výkrmu"
+      },
+      {
+        "kod": "TROUP_AGE_AM1_BV",
+        "otazka": "Nákupy: věk masných býčků pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AM1_REP_BV",
+        "otazka": "Nákupy: věk odstavených masných býčků pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AG1_BV",
+        "otazka": "Nákupy: věk  masných jalovic pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AG1_REP_BV",
+        "otazka": "Nákupy: věk odstavených masných jaloviček pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AG_MAIGRE_BV",
+        "otazka": "Nákupy: věk masných jalovic pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AJB_MAIGRE_BV",
+        "otazka": "Nákupy: věk mladého masného skotu pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AVA_BV",
+        "otazka": "Nákupy: věk plemenného masného skotu při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AM_MAIGRE_BV",
+        "otazka": "Nákupy: věk masných býčků pro výkrm při nákupu"
+      },
+      {
+        "kod": "TROUP_AGE_AM_BL",
+        "otazka": "Nákupy: věk telat pro výkrm při nákupu (mléčný typ – býčci)"
+      },
+      {
+        "kod": "TROUP_AGE_AM1_MAIGRES_BL",
+        "otazka": "Nákupy: věk býčků mléčného  typu pro výkrm při nákupu – 0–1 rok "
+      },
+      {
+        "kod": "TROUP_AGE_AM2_MAIGRES_BL",
+        "otazka": "Nákupy: věk býčků mléčného typu pro výkrm při nákupu – 1–2 roky "
+      },
+      {
+        "kod": "TROUP_AGE_AM3_MAIGRES_BL",
+        "otazka": "Nákupy: věk starších býčků mléčný typ pro výkrm při nákupu "
+      },
+      {
+        "kod": "TROUP_VVEAUX_BV",
+        "otazka": "Prodej: počet masných telat (narozená, odstavená)"
+      },
+      {
+        "kod": "TROUP_VM1_BV",
+        "otazka": "Prodej: počet masných býků  0-1 rok"
+      },
+      {
+        "kod": "TROUP_VM1_REP_BV",
+        "otazka": "Prodej: počet odstavených masných býčků"
+      },
+      {
+        "kod": "TROUP_VG1_BV",
+        "otazka": "Prodej: počet masných jalovic 0-1 rok "
+      },
+      {
+        "kod": "TROUP_VG1_REP_BV",
+        "otazka": "Prodej: počet odstavených masných jaloviček"
+      },
+      {
+        "kod": "TROUP_VG_MAIGRE_BV",
+        "otazka": "Prodej: počet jalovic  ve výkrmu"
+      },
+      {
+        "kod": "TROUP_VJB_MAIGRE_BV",
+        "otazka": "Prodej: počet mladého skotu  ve výkrmu ve věku 1-2 roky"
+      },
+      {
+        "kod": "TROUP_VVA_BV",
+        "otazka": "Prodej: počet chovných masných krav"
+      },
+      {
+        "kod": "TROUP_VM_MAIGRE_BV",
+        "otazka": "Prodej: počet masných býků"
+      },
+      {
+        "kod": "TROUP_VM1_MAIGRES_BL",
+        "otazka": "Prodej: počet vykrmovaných býčků dojných plemen 0–1 rok"
+      },
+      {
+        "kod": "TROUP_VM2_MAIGRES_BL",
+        "otazka": "Prodej: počet vykrmovaných býčků dojných plemen 1–2 roky"
+      },
+      {
+        "kod": "TROUP_VM3_MAIGRES_BL",
+        "otazka": "Prodej: počet vykrmovaných býků dojných plemen nad 2 roky"
+      },
+      {
+        "kod": "TROUP_POIDS_VVEAUX_BV",
+        "otazka": "Nákupy: počet telat býčků na výkrm mléčného typu"
+      },
+      {
+        "kod": "TROUP_POIDS_VM1_BV",
+        "otazka": "Prodeje: hmotnost masných býků  0-1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_VM1_REP_BV",
+        "otazka": "Prodeje: hmotnost odstavených býčků na výkrm 0-1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_VG1_BV",
+        "otazka": "Prodeje: hmotnost jalovic na výkrm 0-1 rok"
+      },
+      {
+        "kod": "TROUP_POIDS_VG1_REP_BV",
+        "otazka": "Prodeje: hmotnost odstavených jalovic na výkrm "
+      },
+      {
+        "kod": "TROUP_POIDS_VG_MAIGRE_BV",
+        "otazka": "Prodeje: hmotnost hubených jalovic"
+      },
+      {
+        "kod": "TROUP_POIDS_VJB_MAIGRE_BV",
+        "otazka": "Prodeje: hmotnost hubených mladých býků"
+      },
+      {
+        "kod": "TROUP_POIDS_VVA_BV",
+        "otazka": "Prodeje: hmotnost masných krav"
+      },
+      {
+        "kod": "TROUP_POIDS_VM_MAIGRE_BV",
+        "otazka": "Prodeje: hmotnost hubených samců"
+      },
+      {
+        "kod": "TROUP_POIDS_VM1_MAIGRES_BL",
+        "otazka": "Prodeje: hmotnost hubených samců 0–1 rok – dojných"
+      },
+      {
+        "kod": "TROUP_POIDS_VM2_MAIGRES_BL",
+        "otazka": "Prodeje: hmotnost hubených samců 1–2 roky – dojných"
+      },
+      {
+        "kod": "TROUP_POIDS_VM3_MAIGRES_BL",
+        "otazka": "Prodeje: hmotnost hubených starších samců – dojných"
+      },
+      {
+        "kod": "TROUP_AGE_VVEAUX_BV",
+        "otazka": "Prodeje: věk při prodeji telat (novorozená, odstavená)"
+      },
+      {
+        "kod": "TROUP_AGE_VM1_BV",
+        "otazka": "Prodeje: věk při prodeji masných býků  0-1 rok"
+      },
+      {
+        "kod": "TROUP_AGE_VM1_REP_BV",
+        "otazka": "Prodeje: věk při prodeji odstavených masných býků  0-1 rok"
+      },
+      {
+        "kod": "TROUP_AGE_VG1_BV",
+        "otazka": "Prodeje: věk při prodeji masných jalovic"
+      },
+      {
+        "kod": "TROUP_AGE_VG1_REP_BV",
+        "otazka": "Prodeje: věk při prodeji odstavených masných jalovic"
+      },
+      {
+        "kod": "TROUP_AGE_VG_MAIGRE_BV",
+        "otazka": "Prodeje: věk při prodeji hubených jalovic"
+      },
+      {
+        "kod": "TROUP_AGE_VJB_MAIGRE_BV",
+        "otazka": "Prodeje: věk při prodeji hubených mladých býků"
+      },
+      {
+        "kod": "TROUP_AGE_VVA_BV",
+        "otazka": "Prodeje: věk při prodeji masných krav "
+      },
+      {
+        "kod": "TROUP_AGE_VM_MAIGRE_BV",
+        "otazka": "Prodeje: věk při prodeji hubených samců"
+      },
+      {
+        "kod": "TROUP_AGE_VM1_MAIGRES_BL",
+        "otazka": "Prodeje: věk při prodeji hubených samců 0–1 rok – dojných"
+      },
+      {
+        "kod": "TROUP_AGE_VM2_MAIGRES_BL",
+        "otazka": "Prodeje: věk při prodeji hubených samců 1–2 roky – dojných"
+      },
+      {
+        "kod": "TROUP_AGE_VM3_MAIGRES_BL",
+        "otazka": "Prodeje: věk při prodeji hubených starších samců – dojných"
+      },
+      {
+        "kod": "TROUP_VVEAUX_SS_MERE_BV",
+        "otazka": "Prodeje: počet telat pod matkou"
+      },
+      {
+        "kod": "TROUP_VVEAUX_LOURDS_BV",
+        "otazka": "Prodeje: počet masných telat 6-10 měs. "
+      },
+      {
+        "kod": "TROUP_VG_BV_FINIE",
+        "otazka": "Prodeje: počet jatečných jalovic do 2 let"
+      },
+      {
+        "kod": "TROUP_VM2_BV",
+        "otazka": "Prodeje: počet jatečných mladých býků do 2 let"
+      },
+      {
+        "kod": "TROUP_VM3_BV",
+        "otazka": "Prodeje: počet jatečných volů"
+      },
+      {
+        "kod": "TROUP_VTX_BV",
+        "otazka": "Prodeje: počet ostatních jatečných býků nad 2 roky (včetně plemenných býků)"
+      },
+      {
+        "kod": "TROUP_VVR_BV",
+        "otazka": "Prodeje: počet brakovaných krav"
+      },
+      {
+        "kod": "TROUP_VVEAUX_BL",
+        "otazka": "Prodeje: počet jatečných telat"
+      },
+      {
+        "kod": "TROUP_VM2_BL",
+        "otazka": "Prodeje: počet jatečných mladých býků dojných plemen"
+      },
+      {
+        "kod": "TROUP_VM3_BL",
+        "otazka": "Prodeje: počet ostatních jatečných býků dojných plemen"
+      },
+      {
+        "kod": "TROUP_VM3_AUTRES_BL",
+        "otazka": "Prodeje: počet jatečných volů dojných plemen"
+      },
+      {
+        "kod": "TROUP_VG_BL",
+        "otazka": "Prodeje: počet jatečných jalovic dojných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VVEAUX_SS_MERE_BV",
+        "otazka": "Prodeje: živá hmotnost telat pod matkou"
+      },
+      {
+        "kod": "TROUP_POIDS_VVEAUX_LOURDS_BV",
+        "otazka": "Prodeje: živá hmotnost masných telat 6-10 měs."
+      },
+      {
+        "kod": "TROUP_POIDS_VG_BV_FINIE",
+        "otazka": "Prodeje: živá hmotnost jatečných masných jalovic"
+      },
+      {
+        "kod": "TROUP_POIDS_VM2_BV",
+        "otazka": "Prodeje: živá hmotnost jatečných masných mladých býků"
+      },
+      {
+        "kod": "TROUP_POIDS_VM3_BV",
+        "otazka": "Prodeje: živá hmotnost jatečných masných volů"
+      },
+      {
+        "kod": "TROUP_POIDS_VTX_BV",
+        "otazka": "Prodeje: živá hmotnost ostatních jatečných masných býků nad 2 roky (včetně plemenných býků)"
+      },
+      {
+        "kod": "TROUP_POIDS_VVR_BV",
+        "otazka": "Prodeje: živá hmotnost brakovaných krav masných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VVEAUX_BL",
+        "otazka": "Prodeje: živá hmotnost jatečných telat dojných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VM2_BL",
+        "otazka": "Prodeje: živá hmotnostjatečných mladých býků dojných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VM3_BL",
+        "otazka": "Prodeje: živá hmotnost ostatních jatčných starších samců dojných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VM3_AUTRES_BL",
+        "otazka": "Prodeje: živá hmotnost vykrmených volů dojných plemen"
+      },
+      {
+        "kod": "TROUP_POIDS_VG_BL",
+        "otazka": "Prodeje: živá hmotnost jatečných jalovic dojných plemen"
+      },
+      {
+        "kod": "TROUP_AGE_VVEAUX_SS_MERE_BV",
+        "otazka": "Prodeje: věk telat pod matkou"
+      },
+      {
+        "kod": "TROUP_AGE_VVEAUX_LOURDS_BV",
+        "otazka": "Prodeje: věk masných telat 6-10 měs."
+      },
+      {
+        "kod": "TROUP_AGE_VG_BV_FINIE",
+        "otazka": "Prodeje: věk jatečných masných jalovic"
+      },
+      {
+        "kod": "TROUP_AGE_VM2_BV",
+        "otazka": "Prodeje: věk  jatečných mladých býků"
+      },
+      {
+        "kod": "TROUP_AGE_VM3_BV",
+        "otazka": "Prodeje: věk jatečných volů"
+      },
+      {
+        "kod": "TROUP_AGE_VTX_BV",
+        "otazka": "Prodeje: věk ostatníchjatečných býků nad 2 roky (včetně plemenných býků)"
+      },
+      {
+        "kod": "TROUP_AGE_VVR_BV",
+        "otazka": "Prodeje: věk brakovaných krav"
+      },
+      {
+        "kod": "TROUP_AGE_VVEAUX_BL",
+        "otazka": "Prodeje: věk jatečných telat"
+      },
+      {
+        "kod": "TROUP_AGE_VM2_BL",
+        "otazka": "Prodeje: věk jatečných mladých býků z dojných plemen"
+      },
+      {
+        "kod": "TROUP_AGE_VM3_BL",
+        "otazka": "Prodeje: věk jatečných volů dojných plemen"
+      },
+      {
+        "kod": "TROUP_AGE_VM3_AUTRES_BL",
+        "otazka": "Prodeje: věk ostatních jatečných býků dojných plemen nad 2 roky"
+      },
+      {
+        "kod": "TROUP_AGE_VG_BL",
+        "otazka": "Prodeje: věk jalovic dojných plemen"
+      },
+      {
+        "kod": "TROUP_BV_NOMBRE_VELAGE",
+        "otazka": "Počet otelení"
+      },
+      {
+        "kod": "TROUP_BV_NOMBRE_VELAGE_VACHE",
+        "otazka": "Počet otelení na krávu"
+      },
+      {
+        "kod": "TROUP_BV_NOMBRE_VEAUX_SEVRES",
+        "otazka": "Počet odstavených telat"
+      },
+      {
+        "kod": "TROUP_BV_NOMBRE_VEAUX_SEVRES_VACHE",
+        "otazka": "Počet odstavených telat na krávu"
+      },
+      {
+        "kod": "TROUP_AGE_VELAGE_BV",
+        "otazka": "Průměrný věk při prvním otelení"
+      },
+      {
+        "kod": "TROUP_AGE_SEVRAGE_F_BV",
+        "otazka": "Věk při odstavu jalovic"
+      },
+      {
+        "kod": "TROUP_AGE_SEVRAGE_M_BV",
+        "otazka": "Věk při odstavu býčků"
+      },
+      {
+        "kod": "TROUP_BV_VEL30MOIS",
+        "otazka": "% otelení před 30. měsícem"
+      },
+      {
+        "kod": "TROUP_BV_VELAGE",
+        "otazka": "Období otelení"
+      },
+      {
+        "kod": "TROUP_BV_IVV",
+        "otazka": "Mezidobí (otelení–otelení)"
+      },
+      {
+        "kod": "TROUP_BV_IVV400",
+        "otazka": "% intervalu mezidobí > 400 dnů"
+      },
+      {
+        "kod": "TROUP_PERTES_VEAUX_BV",
+        "otazka": "Mortalita"
+      },
+      {
+        "kod": "TROUP_BV_PERTES_ADULTES",
+        "otazka": "Ztráty dospělého skotu"
+      },
+      {
+        "kod": "TROUP_BV_TX_RENOUV",
+        "otazka": "Brakace"
+      },
+      {
+        "kod": "TROUP_BV_TX_PROLIFICITE",
+        "otazka": "Natalita"
+      },
+      {
+        "kod": "TROUP_BV_TX_PROD_NUM",
+        "otazka": "Komplexní reprodukční ukazatel "
+      },
+      {
+        "kod": "TROUP_BV_TX_GESTATION",
+        "otazka": "Míra zabřeznutí "
+      },
+      {
+        "kod": "TROUP_BV_PERTES_ENGR",
+        "otazka": "Ztráty při výkrmu"
+      },
+      {
+        "kod": "TROUP_BV_UGB",
+        "otazka": "Počet VDJ jednotky pro výkrm"
+      },
+      {
+        "kod": "TROUP_BV_PBVV_TOT",
+        "otazka": "Hrubá produkce živé hmotnosti masné jednotky"
+      },
+      {
+        "kod": "TROUP_BV_PBVV_TOT_UGB",
+        "otazka": "Hrubá produkce živé hmotnosti masné jednotky"
+      },
+      {
+        "kod": "TROUP_RACE1_OV",
+        "otazka": "Plemeno"
+      },
+      {
+        "kod": "TROUP_PART_RACE1_OV",
+        "otazka": "% podíl plemene"
+      },
+      {
+        "kod": "TROUP_NB_OV_BA",
+        "otazka": "Masné bahnice"
+      },
+      {
+        "kod": "TROUP_NB_OV_AR",
+        "otazka": "Masné jehničky starší než 6 měsíců"
+      },
+      {
+        "kod": "TROUP_NB_OV_AGX",
+        "otazka": "Masná jehňata"
+      },
+      {
+        "kod": "TROUP_NB_OV_BEL",
+        "otazka": "Masní berani"
+      },
+      {
+        "kod": "TROUP_EFF_DEB",
+        "otazka": "Počáteční stav"
+      },
+      {
+        "kod": "TROUP_EFF_FIN",
+        "otazka": "Konečný stav"
+      },
+      {
+        "kod": "TROUP_POIDS_OV_BA",
+        "otazka": "Průměrná živá hmotnost masných bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_OV_AR",
+        "otazka": "Průměrná živá hmotnost masných jehniček starších než 6 měsíců"
+      },
+      {
+        "kod": "TROUP_POIDS_OV_AGX",
+        "otazka": "Průměrná živá hmotnost masných jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_OV_BEL",
+        "otazka": "Průměrná živá hmotnost masných beranů"
+      },
+      {
+        "kod": "TROUP_ABA_OV",
+        "otazka": "Nákupy: počet masných bahnic"
+      },
+      {
+        "kod": "TROUP_AAGL_OV",
+        "otazka": "Nákupy: počet masných jehniček"
+      },
+      {
+        "kod": "TROUP_AAGX_OV",
+        "otazka": "Nákupy: počet masných jehňat"
+      },
+      {
+        "kod": "TROUP_ABEL_OV",
+        "otazka": "Nákupy: počet masných beranů"
+      },
+      {
+        "kod": "TROUP_POIDS_ABA_OV",
+        "otazka": "Nákupy: průměrná živá hmotnost masných bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_AAGL_OV",
+        "otazka": "Nákupy: průměrná živá hmotnost masných jehniček"
+      },
+      {
+        "kod": "TROUP_POIDS_AAGX_OV",
+        "otazka": "Nákupy: průměrná živá hmotnost masných jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_ABEL_OV",
+        "otazka": "Nákupy: průměrná živá hmotnost masných beranů"
+      },
+      {
+        "kod": "TROUP_AGE_AAGL_OV",
+        "otazka": "Nákupy: průměrný věk masných jehniček"
+      },
+      {
+        "kod": "TROUP_AGE_AAGX_OV",
+        "otazka": "Nákupy: průměrný věk masných jehňat"
+      },
+      {
+        "kod": "TROUP_VBREPRO_OV",
+        "otazka": "Prodeje: počet chovných masných  bahnic"
+      },
+      {
+        "kod": "TROUP_VBR_OV",
+        "otazka": "Prodeje: počet brakovaných masnýchbahnic"
+      },
+      {
+        "kod": "TROUP_VAGLREPRO_OV",
+        "otazka": "Prodeje: počet chovných masných jehniček"
+      },
+      {
+        "kod": "TROUP_VAGX_LEG_OV",
+        "otazka": "Prodeje: počet lehkých masných jehňat"
+      },
+      {
+        "kod": "TROUP_VAGX_LOURD_OV",
+        "otazka": "Prodeje: počet těžkých masných jehňat ze stájového výkrmu"
+      },
+      {
+        "kod": "TROUP_VAGX_LOURD_HERBE_OV",
+        "otazka": "Prodeje: počet těžkých masných jehňat z pastvy"
+      },
+      {
+        "kod": "TROUP_VBEL_OV",
+        "otazka": "Prodeje: počet chovných masných beranů"
+      },
+      {
+        "kod": "TROUP_VBEL_REF_OV",
+        "otazka": "Prodeje: počet brakovaných masných beranů"
+      },
+      {
+        "kod": "TROUP_POIDS_VBREPRO_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost chovných masných bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_VBR_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost brakovaných masných bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGLREPRO_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost chovných masných jehniček"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGX_LEG_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost lehkých masných  jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGX_LOURD_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost těžkých masných jehňat ze stájového výkrmu"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGX_LOURD_HERBE_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost těžkých masných jehňat z pastvy"
+      },
+      {
+        "kod": "TROUP_POIDS_VBEL_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost chovných masných beranů"
+      },
+      {
+        "kod": "TROUP_POIDS_VBEL_REF_OV",
+        "otazka": "Prodeje: průměrná živá hmotnost brakovaných masných beranů"
+      },
+      {
+        "kod": "TROUP_AGE_VAGLREPRO_OV",
+        "otazka": "Prodeje: průměrný věk chovných masných jehniček"
+      },
+      {
+        "kod": "TROUP_AGE_VAGX_LEG_OV",
+        "otazka": "Prodeje: průměrný věk lehkých masných  jehňat"
+      },
+      {
+        "kod": "TROUP_AGE_VAGX_LOURD_OV",
+        "otazka": "Prodeje: průměrný věk těžkých masných  jehňat ze stájového výkrmu"
+      },
+      {
+        "kod": "TROUP_AGE_VAGX_LOURD_HERBE_OV",
+        "otazka": "Prodeje: průměrný věk těžkých masných  jehňat ze stájového výkrmu"
+      },
+      {
+        "kod": "TROUP_OV_EMP",
+        "otazka": "Počet bahnění"
+      },
+      {
+        "kod": "TROUP_OV_AGX_NES",
+        "otazka": "Počet narozených jehňat"
+      },
+      {
+        "kod": "TROUP_OV_TX_PROLIF",
+        "otazka": "Natalita"
+      },
+      {
+        "kod": "TROUP_OV_TX_PROD_NUM",
+        "otazka": "% odchovaných jehňat na bahnici"
+      },
+      {
+        "kod": "TROUP_OV_TX_FERTI",
+        "otazka": "Míra zabřeznutí"
+      },
+      {
+        "kod": "TROUP_OV_AGE_LUTTE",
+        "otazka": "Průměrný věk při prvním zapouštění"
+      },
+      {
+        "kod": "TROUP_OV_NB_PER_MISES_BAS",
+        "otazka": "Počet bahnících období"
+      },
+      {
+        "kod": "TROUP_OV_TYPE_ACC",
+        "otazka": "Typ synchronizace"
+      },
+      {
+        "kod": "TROUP_OV_FINITION_AGX",
+        "otazka": "Cíl finalizace jehňat"
+      },
+      {
+        "kod": "TROUP_OV_NB_MORT",
+        "otazka": "Počet úhynů"
+      },
+      {
+        "kod": "TROUP_OV_KG_EQ_CARC",
+        "otazka": "kg ekv. JUT jehňat vyprodukovaných"
+      },
+      {
+        "kod": "TROUP_OV_PROD_POND",
+        "otazka": "Ekvivalentní výnos JUT jehněte"
+      },
+      {
+        "kod": "TROUP_RACE1_OL",
+        "otazka": "Plemeno"
+      },
+      {
+        "kod": "TROUP_PART_RACE1_OL",
+        "otazka": "% podíl plemene"
+      },
+      {
+        "kod": "TROUP_NB_OL_BL",
+        "otazka": "Dospělé bahnice nebo mladé ovce zařazené do reprodukce"
+      },
+      {
+        "kod": "TROUP_NB_OL_ANT",
+        "otazka": "Mladé ovce nezařazené do reprodukce (bahnění ve 2 letech)"
+      },
+      {
+        "kod": "TROUP_NB_OL_AGL",
+        "otazka": "Jehničky (narozené v tomto období)"
+      },
+      {
+        "kod": "TROUP_NB_OL_BEL",
+        "otazka": "Berani"
+      },
+      {
+        "kod": "TROUP_POIDS_OL_BL",
+        "otazka": "Průměrná živá hmotnost dojných bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_OL_ANT",
+        "otazka": "Průměrná živá hmotnost mladých ovcí nezařazených do reprodukce (bahnění ve 2 letech)"
+      },
+      {
+        "kod": "TROUP_POIDS_OL_AGL",
+        "otazka": "Průměrná živá hmotnost jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_POIDS_OL_BEL",
+        "otazka": "Průměrná živá hmotnost beranů"
+      },
+      {
+        "kod": "TROUP_ABAD_OL",
+        "otazka": "Nákupy: počet dospělých bahnic"
+      },
+      {
+        "kod": "TROUP_AANT_OL",
+        "otazka": "Nákupy: počet mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_AAGNL_OL",
+        "otazka": "Nákupy: počet jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_AAGXREPRO_OL",
+        "otazka": "Nákupy: počet plemenných jehňat"
+      },
+      {
+        "kod": "TROUP_ABEL_OL",
+        "otazka": "Nákupy: počet beranů"
+      },
+      {
+        "kod": "TROUP_AGE_AANT_OL",
+        "otazka": "Nákupy: průměrný věk mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_AGE_AAGNL_OL",
+        "otazka": "Nákupy: průměrný věk jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_AGE_AAGXREPRO_OL",
+        "otazka": "Nákupy: průměrný věk plemenných jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_ABAD_OL",
+        "otazka": "Nákupy: průměrná živá hmotnost dospělých bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_AANT_OL",
+        "otazka": "Nákupy: průměrná živá hmotnost mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_POIDS_AAGNL_OL",
+        "otazka": "Nákupy: průměrná živá hmotnost jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_POIDS_AAGXREPRO_OL",
+        "otazka": "Nákupy: průměrná živá hmotnost plemenných jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_ABEL_OL",
+        "otazka": "Nákupy: průměrná živá hmotnost beranů"
+      },
+      {
+        "kod": "TROUP_VBAD_OL",
+        "otazka": "Prodej: počet dospělých bahnic"
+      },
+      {
+        "kod": "TROUP_VANT_OL",
+        "otazka": "Prodej: počet mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_VAGL_OL",
+        "otazka": "Prodej: počet jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_VBEL_OL",
+        "otazka": "Prodej: počet beranů"
+      },
+      {
+        "kod": "TROUP_VAGXLAIT_OL",
+        "otazka": "Prodej: počet jehňat na mléko"
+      },
+      {
+        "kod": "TROUP_AGE_VANT_OL",
+        "otazka": "Prodej: průměrný věk mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_AGE_VAGL_OL",
+        "otazka": "Prodej: průměrný věk jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_AGE_VAGXLAIT_OL",
+        "otazka": "Prodej: průměrný věk mléčných jehňat"
+      },
+      {
+        "kod": "TROUP_POIDS_VBAD_OL",
+        "otazka": "Prodej: průměrná živá hmotnost dospělých bahnic"
+      },
+      {
+        "kod": "TROUP_POIDS_VANT_OL",
+        "otazka": "Prodej: průměrná živá hmotnost mladých ovcí (narozených v předchozím období)"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGL_OL",
+        "otazka": "Prodej: průměrná živá hmotnost jehniček (narozených v tomto období)"
+      },
+      {
+        "kod": "TROUP_POIDS_VBEL_OL",
+        "otazka": "Prodej: průměrná živá hmotnost beranů"
+      },
+      {
+        "kod": "TROUP_POIDS_VAGXLAIT_OL",
+        "otazka": "Prodej: průměrná živá hmotnost mléčných jehňat"
+      },
+      {
+        "kod": "TROUP_OL_LAIT_VENDU",
+        "otazka": "Celkové prodané mléko (včetně zpracovaného a prodaného formou přímého prodeje)"
+      },
+      {
+        "kod": "TROUP_OL_LAIT_AUTO",
+        "otazka": "Mléko (bez mleziva) samospotřebované / podané jehňatům / vyhozené"
+      },
+      {
+        "kod": "TROUP_OL_LAIT_PROD",
+        "otazka": "Vyprodukované mléko"
+      },
+      {
+        "kod": "TROUP_OL_TB",
+        "otazka": "Obsah tuku (OT)"
+      },
+      {
+        "kod": "TROUP_OL_TP",
+        "otazka": "Obsah bílkovin (OB)"
+      },
+      {
+        "kod": "TROUP_OL_AGE_LUTTE",
+        "otazka": "Průměrný věk při prvním připouštění"
+      },
+      {
+        "kod": "TROUP_OL_AGE_MISE_BAS",
+        "otazka": "Průměrný věk při prvním bahnění"
+      },
+      {
+        "kod": "TROUP_OL_NB_BREBIS_MIS_BAS",
+        "otazka": "Počet bahnic, které se bahnily"
+      },
+      {
+        "kod": "TROUP_OL_DATE_TRAITE",
+        "otazka": "Datum zahájení dojení"
+      },
+      {
+        "kod": "TROUP_OL_DUREE_TRAITE",
+        "otazka": "Doba dojení"
+      },
+      {
+        "kod": "TROUP_OL_NB_TRAITE",
+        "otazka": "Počet dojení za den"
+      },
+      {
+        "kod": "TROUP_OL_TX_PROLIF",
+        "otazka": "Natalita"
+      },
+      {
+        "kod": "TROUP_OL_TX_PROD_NUM",
+        "otazka": "Počet odchovaných jehňat / přítomná bahnice"
+      },
+      {
+        "kod": "TROUP_OL_TX_RENOUV",
+        "otazka": "Míra obnovy stáda"
+      },
+      {
+        "kod": "TROUP_OL_TX_MORT_BREBIS",
+        "otazka": "Mortalita bahnic"
+      },
+      {
+        "kod": "TROUP_OL_TX_REF",
+        "otazka": "Míra brakace"
+      },
+      {
+        "kod": "TROUP_OL_PL_CORRIGEE_MSU",
+        "otazka": "Produkce mléka korigovaná na obsah tuku a bílkovin (OT/OB)"
+      },
+      {
+        "kod": "TROUP_PL_OL",
+        "otazka": "Hrubá produkce mléka"
+      },
+      {
+        "kod": "TROUP_RACE1_CA",
+        "otazka": "Plemeno"
+      },
+      {
+        "kod": "TROUP_PART_RACE1_CA",
+        "otazka": "% podíl plemene"
+      },
+      {
+        "kod": "TROUP_NB_CA_CH",
+        "otazka": "Dojné kozy"
+      },
+      {
+        "kod": "TROUP_NB_CA_CT",
+        "otazka": "Mladé kozy"
+      },
+      {
+        "kod": "TROUP_NB_CA_BC",
+        "otazka": "Kozli"
+      },
+      {
+        "kod": "TROUP_POIDS_CH",
+        "otazka": "Průměrná živá hmotnost dojných koz"
+      },
+      {
+        "kod": "TROUP_POIDS_CT",
+        "otazka": "Průměrná živá hmotnost mladých koz"
+      },
+      {
+        "kod": "TROUP_POIDS_BC",
+        "otazka": "Průměrná živá hmotnost kozlů"
+      },
+      {
+        "kod": "TROUP_ACH_CA",
+        "otazka": "Nákupy: počet dojných koz"
+      },
+      {
+        "kod": "TROUP_ACT_CA",
+        "otazka": "Nákupy: počet mladých koz (chovných)"
+      },
+      {
+        "kod": "TROUP_ABC_CA",
+        "otazka": "Nákupy: počet kozlů (plemenných)"
+      },
+      {
+        "kod": "TROUP_POIDS_ACH_CA",
+        "otazka": "Nákupy: živá hmotnost dojných koz"
+      },
+      {
+        "kod": "TROUP_POIDS_ACT_CA",
+        "otazka": "Nákupy: živá hmotnost mladých koz (chovných)"
+      },
+      {
+        "kod": "TROUP_POIDS_ABC_CA",
+        "otazka": "Nákupy: živá hmotnost kozlů (plemenných)"
+      },
+      {
+        "kod": "TROUP_VCHR_CA",
+        "otazka": "Prodej: počet brakovaných dojných koz"
+      },
+      {
+        "kod": "TROUP_VCH_CA",
+        "otazka": "Prodej: počet dojných koz"
+      },
+      {
+        "kod": "TROUP_VCT_CA",
+        "otazka": "Prodej: počet mladých koz (chovných)"
+      },
+      {
+        "kod": "TROUP_VCV_CA",
+        "otazka": "Prodej: počet kůzlat (8 dní)"
+      },
+      {
+        "kod": "TROUP_VBCR_CA",
+        "otazka": "Prodej: počet kozlů (plemenných)"
+      },
+      {
+        "kod": "TROUP_VBCREF_CA",
+        "otazka": "Prodej: počet brakovaných kozlů"
+      },
+      {
+        "kod": "TROUP_POIDS_VCHR_CA",
+        "otazka": "Prodej: živá hmotnost brakovaných dojných koz"
+      },
+      {
+        "kod": "TROUP_POIDS_VCH_CA",
+        "otazka": "Prodej: živá hmotnost dojných koz"
+      },
+      {
+        "kod": "TROUP_POIDS_VCT_CA",
+        "otazka": "Prodej: živá hmotnost mladých koz (chovných)"
+      },
+      {
+        "kod": "TROUP_POIDS_VCV_CA",
+        "otazka": "Prodej: živá hmotnost mladých kůzlat (8 dní)"
+      },
+      {
+        "kod": "TROUP_POIDS_VBCR_CA",
+        "otazka": "Prodej: živá hmotnost kozlů (plemenných)"
+      },
+      {
+        "kod": "TROUP_POIDS_VBCREF_CA",
+        "otazka": "Prodej: živá hmotnost brakovaných kozlů"
+      },
+      {
+        "kod": "TROUP_CA_LAIT_VENDU",
+        "otazka": "Celkové prodané mléko (včetně zpracovaného mléka prodaného formou přímého prodeje)"
+      },
+      {
+        "kod": "TROUP_CA_LAIT_AUTO",
+        "otazka": "Mléko (bez mleziva) podané kůzlatům / samospotřebované / vyhozené"
+      },
+      {
+        "kod": "TROUP_CA_LAIT_PROD",
+        "otazka": "Vyprodukované mléko"
+      },
+      {
+        "kod": "TROUP_CA_TB",
+        "otazka": "Obsah tuku (OT)"
+      },
+      {
+        "kod": "TROUP_CA_TP",
+        "otazka": "Obsah bílkovin (OB)"
+      },
+      {
+        "kod": "TROUP_AGE_MISE_BAS_CA",
+        "otazka": "Průměrný věk při prvním porodu"
+      },
+      {
+        "kod": "TROUP_CA_MISE_BAS",
+        "otazka": "Období porodů"
+      },
+      {
+        "kod": "TROUP_CA_LACTATION",
+        "otazka": "Počet dlouhých laktací"
+      },
+      {
+        "kod": "TROUP_CA_RENOUV",
+        "otazka": "Míra obnovy stáda"
+      },
+      {
+        "kod": "TROUP_CA_MORTALITE",
+        "otazka": "Mortalita"
+      },
+      {
+        "kod": "TROUP_CA_REFORME",
+        "otazka": "Míra brakace"
+      },
+      {
+        "kod": "TROUP_CA_UGB",
+        "otazka": "Počet VDJ jednotky chovu koz"
+      },
+      {
+        "kod": "TROUP_CA_PL_CORRIGEE",
+        "otazka": "Produkce mléka korigovaná na obsah tuku a bílkovin (OT/OB)"
+      },
+      {
+        "kod": "TROUP_PL_CA",
+        "otazka": "Hrubá produkce mléka"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_UNITE",
+        "otazka": "Volba jednotky pro vyjádření celkového objemu zpracovaného mléka"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_QTE_BL",
+        "otazka": "Objem zpracovaného mléka z jednotky dojného skotu"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_QTE_OL",
+        "otazka": "Objem zpracovaného mléka z jednotky dojných ovcí"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_QTE_CA",
+        "otazka": "Objem zpracovaného mléka z jednotky dojných koz"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_PROP_BL",
+        "otazka": "Jaký podíl mléka z jednotky dojného skotu je zpracován?"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_PROP_OL",
+        "otazka": "Jaký podíl mléka z jednotky dojných ovcí je zpracován?"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_PROP_CA",
+        "otazka": "Jaký podíl mléka z jednotky dojných koz je zpracován?"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_QTE_TOT",
+        "otazka": "Celkový objem zpracovaného mléka"
+      },
+      {
+        "kod": "TROUP_TRANSFO_LAIT_TRANS_PROP_TOT",
+        "otazka": "Podíl zpracovaného mléka"
+      },
+      {
+        "kod": "TROUP_TRANSFO_TYPE_UNITE",
+        "otazka": "Volba jednotky pro vyjádření zpracovaného objemu podle typu zpracování"
+      },
+      {
+        "kod": "TROUP_TRANSFO_TYPE1",
+        "otazka": "Typ zpracování"
+      },
+      {
+        "kod": "TROUP_TRANSFO_TYPE1_QTE",
+        "otazka": "Objem mléka (brutto litry / rok)"
+      },
+      {
+        "kod": "TROUP_TRANSFO_TYPE1_PROP",
+        "otazka": "Podíl mléka (%)"
+      },
+      {
+        "kod": "TROUP_TRANSFO_TYPE_AUTRES",
+        "otazka": "Jiné – upřesněte"
+      }
+    ],
+    "Ustájení a odpadní látky": [
+      {
+        "kod": "BAT_TPS",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_TPSBAT",
+        "otazka": "Počet celých dnů strávených ve stáji"
+      },
+      {
+        "kod": "BAT_TPSPAT",
+        "otazka": "Počet celých dnů strávených na pastvě"
+      },
+      {
+        "kod": "BAT_TPS5050",
+        "otazka": "Počet dnů 50–50 (napůl ve stáji a napůl na pastvě)"
+      },
+      {
+        "kod": "BAT_OV_BA_EFF",
+        "otazka": "Počet kusů"
+      },
+      {
+        "kod": "BAT_OV_BA_DUREE",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_OV_BA_BAT",
+        "otazka": "Počet celých dnů strávených ve stáji"
+      },
+      {
+        "kod": "BAT_OV_BA_PAT",
+        "otazka": "Počet celých dnů strávených na pastvě"
+      },
+      {
+        "kod": "BAT_OV_BA_BAT_PAT",
+        "otazka": "Počet dnů „50 % stáj – 50 % pastva\""
+      },
+      {
+        "kod": "BAT_TPS_OL_BL",
+        "otazka": "Doba sledování: Dojné bahnice"
+      },
+      {
+        "kod": "BAT_TPS_OL_ANT",
+        "otazka": "Doba přítomnosti: Mladé ovce nezařazené do reprodukce (bahnění ve 2 letech)"
+      },
+      {
+        "kod": "BAT_TPS_OL_AGL",
+        "otazka": "Doba sledování: Jehnice (narozené během kampaně)"
+      },
+      {
+        "kod": "BAT_TPS_OL_BEL",
+        "otazka": "Doba sledování: Berani"
+      },
+      {
+        "kod": "BAT_OL_BL_BAT_1",
+        "otazka": "Počet hodin ve stáji za 24 h"
+      },
+      {
+        "kod": "BAT_OL_BL_PAT_1",
+        "otazka": "Počet hodin venku za 24 h"
+      },
+      {
+        "kod": "BAT_OL_BL_DEB_1",
+        "otazka": "Datum začátku období"
+      },
+      {
+        "kod": "BAT_OL_BL_FIN_1",
+        "otazka": "Datum konce období"
+      },
+      {
+        "kod": "BAT_OL_BL_JOURS_1",
+        "otazka": "Počet dnů"
+      },
+      {
+        "kod": "BAT_TPS_CA_CH",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_P1_TPSBAT",
+        "otazka": "Počet hodin ve stáji za 24 h"
+      },
+      {
+        "kod": "BAT_P1_DEB_CH",
+        "otazka": "Datum začátku období"
+      },
+      {
+        "kod": "BAT_P1_FIN_CH",
+        "otazka": "Datum konce období"
+      },
+      {
+        "kod": "BAT_P1_JOURS_CH",
+        "otazka": "Počet dnů"
+      },
+      {
+        "kod": "BAT_TYPE",
+        "otazka": "Typ stáje nebo podestýlky"
+      },
+      {
+        "kod": "BAT_PART_FM_VL",
+        "otazka": "% Měkká chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_FC_VL",
+        "otazka": "% Kompaktní chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_FTC_VL",
+        "otazka": "% Velmi kompaktní chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_LISIER_VL",
+        "otazka": "% Kejda"
+      },
+      {
+        "kod": "BAT_FUMIER_PROD",
+        "otazka": "Množství hovězího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_LISIER_PROD",
+        "otazka": "Množství hovězí kejdy vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_PROD",
+        "otazka": "Množství ovčího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_LISIER_OV_PROD",
+        "otazka": "Množství ovčí kejdy vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_PROD",
+        "otazka": "Množství kozího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_ON",
+        "otazka": "Nechává se chlévská mrva vyzrát?"
+      },
+      {
+        "kod": "BAT_FUMIER_TPS_STOCK",
+        "otazka": "Jaká je průměrná doba skladování hnoje?"
+      },
+      {
+        "kod": "BAT_LISIER_TYPE_FOSSE",
+        "otazka": "Jaký je převládající typ jímky na kejdu?"
+      },
+      {
+        "kod": "BAT_LISIER_TPS_STOCK",
+        "otazka": "Jaká je průměrná doba skladování kejdy nebo digestátu v případě využití BPS?"
+      },
+      {
+        "kod": "BAT_AUT_EFF1",
+        "otazka": "Jiné odpadní látky 1"
+      },
+      {
+        "kod": "BAT_AUT_EFF2",
+        "otazka": "Jiné odpadní látky 2"
+      },
+      {
+        "kod": "BAT_FUMIER_ACH",
+        "otazka": "Množství chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_ACH",
+        "otazka": "Množství hovězího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_ACH",
+        "otazka": "Množství hovězí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_ACH",
+        "otazka": "Množství ovčí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_ACH",
+        "otazka": "Množství ovčího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_OV_ACH",
+        "otazka": "Množství ovčí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_ACH",
+        "otazka": "Množství kozí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_ACH",
+        "otazka": "Množství kozího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_PORC_ACH",
+        "otazka": "Množství prasečí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_VOL_ACH",
+        "otazka": "Množství drůbeží podestýlky nebo drůbeží kejdy "
+      },
+      {
+        "kod": "BAT_AUT_EFF1_ACH",
+        "otazka": "Množství jiných odpadních látek 1"
+      },
+      {
+        "kod": "BAT_AUT_EFF2_ACH",
+        "otazka": "Množství jiných odpadních látek 2"
+      },
+      {
+        "kod": "BAT_X_ACH_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_X_ACH_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_FUMIER_VEND",
+        "otazka": "Množství hovězího chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_VEND",
+        "otazka": "Množství hovězího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_VEND",
+        "otazka": "Množství hovězí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_VEND",
+        "otazka": "Množství ovčí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_VEND",
+        "otazka": "Množství ovčího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_OV_VEND",
+        "otazka": "Množství ovčí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_VEND",
+        "otazka": "Množství kozí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_VEND",
+        "otazka": "Množství kozího hnoje"
+      },
+      {
+        "kod": "BAT_X_VEND_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_X_VEND_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_FUMIER_EP_VITESSE",
+        "otazka": "U plodin (pícnin a tržních plodin) je hnůj převážně zaorán:"
+      },
+      {
+        "kod": "BAT_LISIER_EP_TYPE",
+        "otazka": "Jaký typ rozmetadla kejdy se převážně používá pro aplikaci na plodiny?"
+      },
+      {
+        "kod": "BAT_LISIER_EP_VITESSE",
+        "otazka": "U plodin (pícnin a tržních plodin) je kejda převážně zapravována do půdy:"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_QTE",
+        "otazka": "Množství vyprodukované syrovátky"
+      },
+      {
+        "kod": "BAT_TRANSFO_EAU_BLANCHE_QTE",
+        "otazka": "Množství vyprodukované bílé vody"
+      },
+      {
+        "kod": "BAT_TRANSFO_x_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_TRANSFO_x_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_ANX_O_N",
+        "otazka": "Je syrovátka zkrmována zvířatům chovaným v hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_ANX_QTE",
+        "otazka": "Jaké množství syrovátky je zkrmováno v hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_EXPORT_QTE",
+        "otazka": "Jaké množství syrovátky je předáno jinému hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_VALO_QTE",
+        "otazka": "Celkové množství syrovátky využité zvířaty"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_COMMUN_O_N",
+        "otazka": "Jsou syrovátka a bílá voda ze sýrárny spravovány společně?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF",
+        "otazka": "Jaký je převládající systém nakládání s odpadními látkami ze sýrárny?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_LACTO",
+        "otazka": "Jaký je převládající systém nakládání se syrovátkou?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_EAU_BLANCHE",
+        "otazka": "Jaký je převládající systém nakládání s bílou vodou ze sýrárny?"
+      },
+      {
+        "kod": "BAT_FUMIER_EP_QTE",
+        "otazka": "Množství hovězího chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_EP_QTE",
+        "otazka": "Množství ovčí chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_EP_QTE",
+        "otazka": "Množství kozí chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_EP_QTE",
+        "otazka": "Množství hovězího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_EP_QTE",
+        "otazka": "Množství ovčího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_EP_QTE",
+        "otazka": "Množství kozího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_LISIER_EP_QTE",
+        "otazka": "Množství hovězí kejdy k aplikaci"
+      },
+      {
+        "kod": "BAT_LISIER_OV_EP_QTE",
+        "otazka": "Množství ovčí kejdy k aplikaci"
+      },
+      {
+        "kod": "BAT_EFFLUENT_TRANSFO_EP_QTE",
+        "otazka": "Množství odpadních látek ze sýrárny k aplikaci"
+      }
+    ],
+    "Výživa": [
+      {
+        "kod": "ALIM_BBC_CHOIX_SUPPLEMENTATION",
+        "otazka": "Přidávají se tuky do krmné dávce dojnic?"
+      },
+      {
+        "kod": "ALIM_BBC_CHOIX_PROFIL_AG",
+        "otazka": "Máte k dispozici profil mastných kyselin ve vašem mléce z celého stáda (alespoň za 10 měsíců)?"
+      },
+      {
+        "kod": "ALIM_CHOIX_MODULE",
+        "otazka": "Volba modulu"
+      },
+      {
+        "kod": "ALIM_STOCK_FOIN",
+        "otazka": "Množství sklizeného sena"
+      },
+      {
+        "kod": "ALIM_STOCK_ENS",
+        "otazka": "Množství sklizené travní senáže"
+      },
+      {
+        "kod": "ALIM_STOCK_ENR",
+        "otazka": "Množství sklizené balíkované travní senáže"
+      },
+      {
+        "kod": "ALIM_STOCK_FOIN_LEG",
+        "otazka": "Množství sklizeného sena z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_STOCK_ENS_LEG",
+        "otazka": "Množství sklizené senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_STOCK_ENR_LEG",
+        "otazka": "Množství sklizené balíkované senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_STOCK_ENS_MAIS",
+        "otazka": "Množství sklizené kukuřičné siláže"
+      },
+      {
+        "kod": "ALIM_STOCK_AUT_FOU_1",
+        "otazka": "Množství sklizené jiné pícniny"
+      },
+      {
+        "kod": "ALIM_STOCK_DEROBEE_1",
+        "otazka": "Množství sklizené meziplodiny"
+      },
+      {
+        "kod": "ALIM_STOCK_PAILLE",
+        "otazka": "Množství sklizené slámy"
+      },
+      {
+        "kod": "ALIM_VENTE_FOIN",
+        "otazka": "Prodej sena"
+      },
+      {
+        "kod": "ALIM_VENTE_ENS",
+        "otazka": "Prodej travní senáže"
+      },
+      {
+        "kod": "ALIM_VENTE_ENR",
+        "otazka": "Prodej balíkované travní senáže"
+      },
+      {
+        "kod": "ALIM_VENTE_FOIN_LEG",
+        "otazka": "Prodej sena z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VENTE_ENS_LEG",
+        "otazka": "Prodej senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VENTE_ENR_LEG",
+        "otazka": "Prodej balíkované senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VENTE_ENS_MAIS",
+        "otazka": "Prodej kukuřičné siláže"
+      },
+      {
+        "kod": "ALIM_VENTE_AUT_FOU_1",
+        "otazka": "Prodej jiné píce"
+      },
+      {
+        "kod": "ALIM_VENTE_DEROBEE_1",
+        "otazka": "Prodej meziplodiny"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_FOIN",
+        "otazka": "Změna zásob sena"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_ENS",
+        "otazka": "Změna zásob travní senáže"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_ENR",
+        "otazka": "Změna zásob balíkované travní senáže"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_FOIN_LEG",
+        "otazka": "Změna zásob sena z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_ENS_LEG",
+        "otazka": "Změna zásob senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_ENR_LEG",
+        "otazka": "Změna zásob balíkované senáže z leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_ENS_MAIS",
+        "otazka": "Změna zásob kukuřičné siláže"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_AUT_FOU_1",
+        "otazka": "Změna zásob jiné píce"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_DEROBEE_1",
+        "otazka": "Změna zásob meziplodiny"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_PAILLE",
+        "otazka": "Změna zásob slámy"
+      },
+      {
+        "kod": "ALIM_DISPO_FOIN",
+        "otazka": "Dostupné množství po ztrátách"
+      },
+      {
+        "kod": "ALIM_RES_FOIN",
+        "otazka": "Zbývající množství"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_BL",
+        "otazka": "% vyhrazené dojné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_BL_VL",
+        "otazka": "% vyhrazené dojnicím"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_BV",
+        "otazka": "% vyhrazené masné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_OV",
+        "otazka": "% vyhrazené jednotce masných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_OL",
+        "otazka": "% vyhrazené jednotce dojných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_CA",
+        "otazka": "% vyhrazené jednotce chovu koz"
+      },
+      {
+        "kod": "ALIM_PART_FOIN_CA_CH",
+        "otazka": "% vyhrazené jednotce dojných koz"
+      },
+      {
+        "kod": "ALIM_TYPE_AUT_CULT_1",
+        "otazka": "Název plodiny"
+      },
+      {
+        "kod": "ALIM_STOCK_CER",
+        "otazka": "Sklizené množství"
+      },
+      {
+        "kod": "ALIM_VENTE_CER",
+        "otazka": "Prodej"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_CER",
+        "otazka": "Změna zásob"
+      },
+      {
+        "kod": "ALIM_DISPO_CER",
+        "otazka": "Dostupné množství"
+      },
+      {
+        "kod": "ALIM_RES_CER",
+        "otazka": "Zbývající množství obilovin (pšenice, tritikale, ječmen…)"
+      },
+      {
+        "kod": "ALIM_PART_CER_BL",
+        "otazka": "% vyhrazené dojné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_CER_BL_VL",
+        "otazka": "% vyhrazené dojnicím"
+      },
+      {
+        "kod": "ALIM_PART_CER_BV",
+        "otazka": "% vyhrazené masné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_CER_OV",
+        "otazka": "% vyhrazené jednotce masných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_CER_OL",
+        "otazka": "% vyhrazené jednotce dojných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_CER_CA",
+        "otazka": "% vyhrazené jednotce chovu koz"
+      },
+      {
+        "kod": "ALIM_PART_CER_CA_CH",
+        "otazka": "% vyhrazené jednotce dojných koz"
+      },
+      {
+        "kod": "ALIM_TYPE_FOU_ACH_1",
+        "otazka": "Typ nakoupené píce"
+      },
+      {
+        "kod": "ALIM_STOCK_FOU_ACH_1",
+        "otazka": "Množství nakoupené píce"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_FOU_ACH_1",
+        "otazka": "Změna zásob nakoupené píce"
+      },
+      {
+        "kod": "ALIM_DISPO_FOU_ACH_1",
+        "otazka": "Dostupné množství po ztrátách u nakoupené píce"
+      },
+      {
+        "kod": "ALIM_RES_FOU_ACH_1",
+        "otazka": "Zbývající množství nakoupené píce"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_BL",
+        "otazka": "% vyhrazené dojné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_BL_VL",
+        "otazka": "% vyhrazené dojnicím"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_BV",
+        "otazka": "% vyhrazené masné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_OV",
+        "otazka": "% vyhrazené jednotce masných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_OL",
+        "otazka": "% vyhrazené jednotce dojných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_CA",
+        "otazka": "% vyhrazené jednotce chovu koz"
+      },
+      {
+        "kod": "ALIM_PART_FOU_ACH_1_CA_CH",
+        "otazka": "% vyhrazené jednotce dojných koz"
+      },
+      {
+        "kod": "ALIM_TYPE_CONC_ACH_1",
+        "otazka": "Typ nakoupeného premixu"
+      },
+      {
+        "kod": "ALIM_STOCK_CONC_ACH_1",
+        "otazka": "Množství nakoupeného premixu"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_CONC_ACH_1",
+        "otazka": "Změna zásob nakoupeného premixu"
+      },
+      {
+        "kod": "ALIM_DISPO_CONC_ACH_1",
+        "otazka": "Dostupné množství nakoupeného premixu"
+      },
+      {
+        "kod": "ALIM_RES_CONC_ACH_1",
+        "otazka": "Zbývající množství nakoupeného premixu"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_BL",
+        "otazka": "% vyhrazené dojné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_BL_VL",
+        "otazka": "% vyhrazené dojnicím"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_BV",
+        "otazka": "% vyhrazené masné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_OV",
+        "otazka": "% vyhrazené jednotce masných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_OL",
+        "otazka": "% vyhrazené jednotce dojných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_CA",
+        "otazka": "% vyhrazené jednotce chovu koz"
+      },
+      {
+        "kod": "ALIM_PART_CONC_ACH_1_CA_CH",
+        "otazka": "% vyhrazené jednotce dojných koz"
+      },
+      {
+        "kod": "ALIM_TYPE_LIQ_ACH_1",
+        "otazka": "Typ jiného nakoupeného krmiva"
+      },
+      {
+        "kod": "ALIM_STOCK_LIQ_ACH_1",
+        "otazka": "Množství jiného nakoupeného krmiva"
+      },
+      {
+        "kod": "ALIM_VAR_STOCK_LIQ_ACH_1",
+        "otazka": "Změna zásob jiného nakoupeného krmiva"
+      },
+      {
+        "kod": "ALIM_DISPO_LIQ_ACH_1",
+        "otazka": "Dostupné množství jiného nakoupeného krmiva"
+      },
+      {
+        "kod": "ALIM_RES_LIQ_ACH_1",
+        "otazka": "Zbývající množství jiného nakoupeného krmiva"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_BL",
+        "otazka": "% vyhrazené dojné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_BL_VL",
+        "otazka": "% vyhrazené dojnicím"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_BV",
+        "otazka": "% vyhrazené masné jednotce"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_OV",
+        "otazka": "% vyhrazené jednotce masných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_OL",
+        "otazka": "% vyhrazené jednotce dojných ovcí"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_CA",
+        "otazka": "% vyhrazené jednotce chovu koz"
+      },
+      {
+        "kod": "ALIM_PART_LIQ_ACH_1_CA_CH",
+        "otazka": "% vyhrazené jednotce dojných koz"
+      },
+      {
+        "kod": "ALIM_BBC_X2_CAS1_QTE_ALIM_MG",
+        "otazka": "Jaké je množství krmiva s doplňkem tuků podávané dojnicím?"
+      },
+      {
+        "kod": "ALIM_BBC_X2_CAS1_TENEUR_ALIM_MG",
+        "otazka": "Jaký je podíl tuků v tomto krmném doplňku?"
+      },
+      {
+        "kod": "ALIM_BBC_X1_TENEUR_ALIM_MG",
+        "otazka": "Jaký je podíl tuků jiných než omega 3 v tomto krmném doplňku?"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_MOIS1",
+        "otazka": "První měsíc sběru dat"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_PL1",
+        "otazka": "Hrubá mléčná produkce na krávu a den"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_NB_VL1",
+        "otazka": "Počet dojnic na dojení"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_CH41",
+        "otazka": "Emise enterického metanu"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_PL_NB",
+        "otazka": "Počet měsíců uvedených pro mléčnou produkci"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_NB_VL_NB",
+        "otazka": "Počet měsíců uvedených pro počet dojnic"
+      },
+      {
+        "kod": "ALIM_BBC_CAS1_CH4_NB",
+        "otazka": "Počet měsíců uvedených pro emise enterického metanu"
+      },
+      {
+        "kod": "ALIM_BBC_CHOIX_LIPIDE",
+        "otazka": "Je zdroj přidaných lipidů převážně ve formě omega 3?"
+      },
+      {
+        "kod": "ALIM_BBC_IT3_QTE",
+        "otazka": "Doplňuji krmnou dávku dojnic o omega 3 přidáním množství IT3"
+      },
+      {
+        "kod": "ALIM_DISTRIBUTION_FOUR_EXPL",
+        "otazka": "Rozdělené konzervované píce na úrovni hospodářství"
+      },
+      {
+        "kod": "ALIM_ING_FOUR_EXPL",
+        "otazka": "Příjem konzervované píce na úrovni hospodářství"
+      },
+      {
+        "kod": "ALIM_ING_HER_PATU_EXPL",
+        "otazka": "Odhadovaný příjem spásané pastvy na úrovni hospodářství"
+      },
+      {
+        "kod": "ALIM_ING_CONC_EXPL",
+        "otazka": "Spotřeba premixů na úrovni hospodářství"
+      },
+      {
+        "kod": "ALIM_ING_TOT_EXPL",
+        "otazka": "Celkový příjem krmiva na úrovni hospodářství"
+      },
+      {
+        "kod": "ALIM_ING_FOUR_BL",
+        "otazka": "Příjem konzervované píce na úrovni jednotky"
+      },
+      {
+        "kod": "ALIM_ING_HER_PATU_BL",
+        "otazka": "Odhadovaný příjem spásané pastvy na úrovni jednotky"
+      },
+      {
+        "kod": "ALIM_ING_CONC_BL",
+        "otazka": "Spotřeba premixů na úrovni jednotky"
+      },
+      {
+        "kod": "ALIM_ING_TOT_BL",
+        "otazka": "Celkový příjem krmiva na úrovni jednotky"
+      },
+      {
+        "kod": "ALIM_PERIODE_1_VL",
+        "otazka": "Doba podávání krmné dávky"
+      },
+      {
+        "kod": "ALIM_P1_VL_FOUPROD1",
+        "otazka": "Podíl vyprodukované píce"
+      },
+      {
+        "kod": "ALIM_P1_VL_PAILLE",
+        "otazka": "Podíl slámy"
+      },
+      {
+        "kod": "ALIM_P1_VL_FOUACH1",
+        "otazka": "Podíl nakoupené píce"
+      },
+      {
+        "kod": "ALIM_P1_VL_CERPROD1",
+        "otazka": "Množství vyprodukované obiloviny"
+      },
+      {
+        "kod": "ALIM_P1_VL_CONCACH1",
+        "otazka": "Množství nakoupených premixů"
+      },
+      {
+        "kod": "ALIM_P1_VL_LIQ1",
+        "otazka": "Množství jiného nakoupeného krmiva"
+      }
+    ]
+  },
+  "Masná výroba": {
+    "Další": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "AUT_BL_COUT_PROD",
+        "otazka": "Výrobní náklady na dojnou jednotku (s kalkulačními náklady: zhodnocení vlastněné půdy – vlastní kapitál – práce v rámci hopodářství)"
+      },
+      {
+        "kod": "AUT_BL_CHARPROD_ALIM",
+        "otazka": "Náklady na krmivo v dojné jednotce / Výrobky z dojné jednotky (s kalkulačními náklady: zhodnocení vlastněné půdy – Vlastní kapitál – práce vrámci hospodářství)"
+      },
+      {
+        "kod": "AUT_BL_REMTPERMI",
+        "otazka": "Příjem na pracovní jednotku (WU)"
+      },
+      {
+        "kod": "AUT_BV_COUT_PROD",
+        "otazka": "Výrobní náklady masné jednotky (s kalkulačními náklady: zhodnocení vlastněné půdy – vlastní kapitál – práce v rámci hopodářství)"
+      },
+      {
+        "kod": "AUT_BV_CHARPROD_ALIM",
+        "otazka": "Hrubé rozpětí jednotky (Výnosy – provozní náklady)"
+      },
+      {
+        "kod": "AUT_BV_REMTPERMI",
+        "otazka": "Příjem na pracovní jednotku (WU)"
+      },
+      {
+        "kod": "AUT_CA_PRODUIT_TOTAL",
+        "otazka": "Celková produkce"
+      },
+      {
+        "kod": "AUT_CA_COUT_PROD",
+        "otazka": "Výrobní náklady"
+      },
+      {
+        "kod": "AUT_CA_REMBRUTE",
+        "otazka": "Hrubá mzda"
+      },
+      {
+        "kod": "AUT_CA_LAIT_UMO",
+        "otazka": "Celkový objem prodaného mléka (včetně přímo prodaného zpracovaného mléka)"
+      },
+      {
+        "kod": "AUT_CA_REM_MO",
+        "otazka": "Čistá mzda"
+      },
+      {
+        "kod": "AUT_CA_REM_SMIC_MO",
+        "otazka": "Čistá mzda"
+      },
+      {
+        "kod": "AUT_CA_EL",
+        "otazka": "Spokojenost odpovědné osoby s ekonomickou situací hospodářství? (skóre od 0 do 10)"
+      },
+      {
+        "kod": "AUT_EBEPB",
+        "otazka": "Hrubý provozní přebytek/hrubá produkce hospodářství (bez mezd)"
+      },
+      {
+        "kod": "AUT_DISPOEXPLUMO",
+        "otazka": "Disponibilní příjem podniku (včetně odměny společníků u společností)"
+      },
+      {
+        "kod": "AUT_CONT",
+        "otazka": "Obecně jsem spokojený/á s pracovními podmínkami v mém hospodářství"
+      },
+      {
+        "kod": "AUT_VOLT",
+        "otazka": "Celkový objem práce na hospodářství je přijatelný"
+      },
+      {
+        "kod": "AUT_TROUPEAUT",
+        "otazka": "Denní zátěž související se stádem je přijatelná"
+      },
+      {
+        "kod": "AUT_PENIBILITET",
+        "otazka": "Fyzická náročnost práce na mém hospodářství je přijatelná"
+      },
+      {
+        "kod": "AUT_CHARGET",
+        "otazka": "I v hlavní sezóně je pracovní zátěž přijatelná"
+      },
+      {
+        "kod": "AUT_TEMPSLIBRE",
+        "otazka": "Zvládnu si během dne i v týdnu vzít volno, kdy chci."
+      },
+      {
+        "kod": "AUT_CONGES",
+        "otazka": "Na víkend nebo na dovolenou můžu odjet, jak chci."
+      },
+      {
+        "kod": "AUT_CONT_COM",
+        "otazka": "Celkově jsem spokojen se svými pracovními podmínkami"
+      },
+      {
+        "kod": "AUT_VOLT_COM",
+        "otazka": "Celkový objem práce na hospodářství je přijatelný"
+      },
+      {
+        "kod": "AUT_TROUPEAUT_COM",
+        "otazka": "Denní zátěž související s chovem je přijatelná"
+      },
+      {
+        "kod": "AUT_PENIBILITET_COM",
+        "otazka": "Fyzická náročnost práce na mém hospodářství je přijatelná"
+      },
+      {
+        "kod": "AUT_CHARGET_COM",
+        "otazka": "I v hlavní sezóně je pracovní zátěž přijatelná"
+      },
+      {
+        "kod": "AUT_TEMPSLIBRE_COM",
+        "otazka": "Zvládnu si během dne i v týdnu vzít volno, kdy chci."
+      },
+      {
+        "kod": "AUT_CONGES_COM",
+        "otazka": "Na víkend nebo na dovolenou můžu odjet, jak chci."
+      }
+    ],
+    "Energie CZ": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "ENER_ELEC",
+        "otazka": "Celková spotřeba elektřiny (i pro zpracovatelskou jednotku, pokud tento modul vyplníte)"
+      },
+      {
+        "kod": "ENER_ELEC_TRANSFO_ON",
+        "otazka": "Máte samostatný elektroměr pro zpracovatelskou jednotku?"
+      },
+      {
+        "kod": "ENER_ELEC_REEL_TRANSFO",
+        "otazka": "Kolik elektřiny spotřebuje zpracovatelská jednotka?"
+      },
+      {
+        "kod": "ENER_ELEC_ESTIM_TRANSFO",
+        "otazka": "Z toho spotřeba pro zpracovatelskou jednotku"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES_ON",
+        "otazka": "Je spotřeba elektřiny vaší domácnosti na stejném elektroměru jako hospodářství?"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES_TYPE",
+        "otazka": "Jaký typ vytápění používáte?"
+      },
+      {
+        "kod": "ENER_ELEC_DOMES",
+        "otazka": "Z toho spotřeba pro domácnost"
+      },
+      {
+        "kod": "ENER_ELEC_HS_TYPE",
+        "otazka": "Zásobujete svou jednotku nevyžadující půdu (drůbež, prasata) elektřinou?"
+      },
+      {
+        "kod": "ENER_ELEC_HS_ON",
+        "otazka": "Je spotřeba elektřiny jednotkou nevyžadující půdu (drůbež, prasata) vedena na stejném elektroměru jako hospodářství?"
+      },
+      {
+        "kod": "ENER_ELEC_VOLAILLE",
+        "otazka": "Z toho spotřeba jednotky chovu drůbeže"
+      },
+      {
+        "kod": "ENER_ELEC_PORC",
+        "otazka": "Z toho spotřeba jednotky pro chov prasat"
+      },
+      {
+        "kod": "ENER_ELEC_IRR",
+        "otazka": "Včetně spotřeby spojené se závlahou"
+      },
+      {
+        "kod": "ENER_ELEC_RUM",
+        "otazka": "Spotřeba elektrické energie (kromě jednotek nevyžadujících půdu a jednotek domácnosti)"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_ELEVEE_ON",
+        "otazka": "Jsou zde zařízení, která odůvodňují vysokou spotřebu elektřiny?"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_ELEVEE_TYPE1",
+        "otazka": "Typ zařízení"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_FAIBLE_ON",
+        "otazka": "Jsou zde zařízení, která odůvodňují nízkou spotřebu elektřiny?"
+      },
+      {
+        "kod": "ENER_ELEC_CONSO_FAIBLE_TYPE1",
+        "otazka": "Typ zařízení"
+      },
+      {
+        "kod": "ENER_GAZ_SECHAGE_ON",
+        "otazka": "Používáte plyn k sušení kukuřičného zrna?"
+      },
+      {
+        "kod": "ENER_GAZ_SECHAGE",
+        "otazka": "Celková spotřeba plynu na sušení kukuřice"
+      },
+      {
+        "kod": "ENER_GAZ_TRANSFO_ON",
+        "otazka": "Používáte plyn pro zpracovatelskou jednotku?  "
+      },
+      {
+        "kod": "ENER_GAZ_TRANSFO",
+        "otazka": "Spotřeba plynu pro zpracovatelskou jednotku  "
+      },
+      {
+        "kod": "ENER_TRANSFO_EAU_COMPTEUR_ON",
+        "otazka": "Máte samostatný vodoměr pro zpracovatelskou jednotku?"
+      },
+      {
+        "kod": "ENER_TRANSFO_EAU_QTE",
+        "otazka": "Spotřeba vody ve zpracovatelské jednotce"
+      },
+      {
+        "kod": "ENER_TOT_EAU_QTE",
+        "otazka": "Spotřeba vody v hospodářství (chov + zpracování) (bez závlah)"
+      },
+      {
+        "kod": "ENER_TRANSFO_SYST_LAVAGE",
+        "otazka": "Systémy mytí"
+      },
+      {
+        "kod": "ENER_CAR",
+        "otazka": "Celková spotřeba pohonných hmot v hospodářství"
+      },
+      {
+        "kod": "ENER_CAR_VOLAILLE",
+        "otazka": "Z toho spotřeba jednotky chovu drůbeže"
+      },
+      {
+        "kod": "ENER_CAR_PORC",
+        "otazka": "Z toho spotřeba jednotky pro chov prasat"
+      },
+      {
+        "kod": "ENER_CAR_IRR",
+        "otazka": "Včetně spotřeby spojené se závlahou"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1",
+        "otazka": "Práce třetích stran"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1_HEURES",
+        "otazka": "Počet odpracovaných hodin"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TYPE_1_HA",
+        "otazka": "Počet obdělaných hektarů"
+      },
+      {
+        "kod": "ENER_CAR_TPART_TOT",
+        "otazka": "Spotřeba pohonných hmot na práce prováděné třetími stranami"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1",
+        "otazka": "Práce pro třetí strany"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1_HEURES",
+        "otazka": "Počet odpracovaných hodin"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TYPE_1_HA",
+        "otazka": "Počet obdělaných hektarů"
+      },
+      {
+        "kod": "ENER_CAR_TPOURT_TOT",
+        "otazka": "Spotřeba pohonných hmot na práce prováděné pro třetí strany"
+      },
+      {
+        "kod": "ENER_CAR_TOT",
+        "otazka": "Spotřeba elektrické energie (kromě jednotek nevyžadujících půdu a jednotek domácnosti)"
+      },
+      {
+        "kod": "ENER_COMMERCE_CIRCUIT1",
+        "otazka": "Typ obchodního kanálu (1 až 4)"
+      },
+      {
+        "kod": "ENER_COMMERCE_CIRCUIT1_PART",
+        "otazka": "% z objemu"
+      },
+      {
+        "kod": "ENER_COMMERCE_CONSO_CARBU",
+        "otazka": "Spotřeba paliva na distribuci zpracovaných produktů (mimo nesilniční typ nafty)"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_ON",
+        "otazka": "Máte fotovoltaické panely?"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_M2",
+        "otazka": "Jakou plochu představují?"
+      },
+      {
+        "kod": "ENER_PHOTOVOL_KWH",
+        "otazka": "Jaký je objem výroby?"
+      },
+      {
+        "kod": "ENER_METHA_ON_2",
+        "otazka": "Používáte BPS?"
+      },
+      {
+        "kod": "ENER_METHA_MJ",
+        "otazka": "Jaký je objem výroby?"
+      },
+      {
+        "kod": "ENER_AUT_TYPE",
+        "otazka": "Další vyrobená obnovitelná energie"
+      },
+      {
+        "kod": "ENER_AUT_MJ",
+        "otazka": "Jaký je objem výroby?"
+      }
+    ],
+    "Plochy": [
+      {
+        "kod": "Kódy",
+        "otazka": "Označení"
+      },
+      {
+        "kod": "SURF_AUT_FOU",
+        "otazka": "Ostatní pícniny"
+      },
+      {
+        "kod": "SURF_DEROBEE",
+        "otazka": "Meziplodina sklízená"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_PAT",
+        "otazka": "Trvalé travní porosty – pasené"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_FAU",
+        "otazka": "Trvalé travní porosty – sečené"
+      },
+      {
+        "kod": "SURF_HA_PP_NR_PATFAU",
+        "otazka": "Trvalé travní porosty – sečené i pasené"
+      },
+      {
+        "kod": "SURF_HA_PT_R_GRAM",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných čistých travin"
+      },
+      {
+        "kod": "SURF_HA_PT_R",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných travin a leguminóz (jetelotráva)"
+      },
+      {
+        "kod": "SURF_HA_PT_R_LEG",
+        "otazka": "Dočasné travní porosty střídavě pěstovaných čistých leguminóz (vojtěška, jetel atd.) "
+      },
+      {
+        "kod": "SURF_HA_MAIS_ENS",
+        "otazka": "Kukuřice na siláž"
+      },
+      {
+        "kod": "SURF_HA_AUT_FOU",
+        "otazka": "Ostatní pícniny"
+      },
+      {
+        "kod": "SURF_HA_PAST_IND",
+        "otazka": "Individuální pastviny"
+      },
+      {
+        "kod": "SURF_HA_PAST_COLL",
+        "otazka": "Skupinové pastviny"
+      },
+      {
+        "kod": "SURF_HA_ADD",
+        "otazka": "Další plochy"
+      },
+      {
+        "kod": "SURF_HA_DEROBEE",
+        "otazka": "Meziplodina sklízená"
+      },
+      {
+        "kod": "SURF_HA_CIPAN",
+        "otazka": "Plodiny vázající dusík"
+      },
+      {
+        "kod": "SURF_RDT_MAIS_ENS",
+        "otazka": "Výnos kukuřice na siláž"
+      },
+      {
+        "kod": "SURF_RDT_AUT_FOU",
+        "otazka": "Výnos jiné pícniny"
+      },
+      {
+        "kod": "SURF_RDT_DEROBEE",
+        "otazka": "Výnos meziplodiny sklízené"
+      },
+      {
+        "kod": "SURF_RDT_CIPAN",
+        "otazka": "Výnos plodin vázajících dusík"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_PAT",
+        "otazka": "% Leguminóz – Trvalé travní porosty – pasené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_FAU",
+        "otazka": "% Leguminóz – Trvalé travní porosty – sečené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PP_NR_PATFAU",
+        "otazka": "% Leguminóz – Trvalé travní porosty – sečené i pasené"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R_GRAM",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných čistých travin"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných travin a leguminóz"
+      },
+      {
+        "kod": "SURF_PARTLEG_PT_R_LEG",
+        "otazka": "% Leguminóz – Dočasné travní porosty střídavě pěstovaných čistých leguminóz (vojtěška, jetel…)"
+      },
+      {
+        "kod": "SURF_PARTLEG_PAST_IND",
+        "otazka": "% Leguminóz – Individuální pastviny"
+      },
+      {
+        "kod": "SURF_PARTLEG_PAST_COLL",
+        "otazka": "% Leguminóz – Skupinové pastviny"
+      },
+      {
+        "kod": "SURF_PARTLEG_ADD",
+        "otazka": "% Leguminóz – Další plochy"
+      },
+      {
+        "kod": "SURF_AUT_CULT",
+        "otazka": "Ostatní plodiny"
+      },
+      {
+        "kod": "SURF_HA_CER",
+        "otazka": "Obilniny (pšenice, tritikale, ječmen…)"
+      },
+      {
+        "kod": "SURF_HA_MAIS_GRAIN",
+        "otazka": "Kukuřice na zrno"
+      },
+      {
+        "kod": "SURF_HA_PROT",
+        "otazka": "Bílkovinné plodiny (hrách…)"
+      },
+      {
+        "kod": "SURF_HA_OLEA",
+        "otazka": "Olejniny (řepka, slunečnice…)"
+      },
+      {
+        "kod": "SURF_HA_AUT_CULT_1",
+        "otazka": "Jiná plodina"
+      },
+      {
+        "kod": "SURF_RDT_CER",
+        "otazka": "Výnos obilnin (pšenice, tritikale, ječmen…)"
+      },
+      {
+        "kod": "SURF_RDT_MAIS_GRAIN",
+        "otazka": "Výnos kukuřice na zrno"
+      },
+      {
+        "kod": "SURF_RDT_PROT",
+        "otazka": "Výnos bílkovinných plodin (hrách…)"
+      },
+      {
+        "kod": "SURF_RDT_OLEA",
+        "otazka": "Výnos olejnin (řepka, slunečnice…)"
+      },
+      {
+        "kod": "SURF_RDT_AUT_CULT_1",
+        "otazka": "Výnos ostatní plodiny"
+      },
+      {
+        "kod": "SURF_AMMO",
+        "otazka": "Dusičnan amonný – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_SOLN",
+        "otazka": "Kapalné dusíkaté hnojivo – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_UREE",
+        "otazka": "Močovina – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AUTN",
+        "otazka": "Jiná dusíkatá hnojiva – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_P2O5",
+        "otazka": "Minerální fosfor – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_K2O",
+        "otazka": "Minerální draslík – Aplikace na plochy"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_ACHAT",
+        "otazka": "Dusičnan amonný – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_ACHAT",
+        "otazka": "Kapalné dusíkaté hnojivo – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_UREE_QTE_ACHAT",
+        "otazka": "Močovina – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_ACHAT",
+        "otazka": "Jiná dusíkatá hnojiva – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_ACHAT",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_ACHAT",
+        "otazka": "Minerální fosfor – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_K2O_QTE_ACHAT",
+        "otazka": "Minerální draslík – Nakoupené množství + počáteční zásoba – konečná zásoba"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_CONSO",
+        "otazka": "Dusičnan amonný – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_CONSO",
+        "otazka": "Kapalné dusíkaté hnojivo – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_UREE_QTE_CONSO",
+        "otazka": "Močovina – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_CONSO",
+        "otazka": "Jiná dusíkatá hnojiva – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_CONSO",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_CONSO",
+        "otazka": "Minerální fosfor – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_K2O_QTE_CONSO",
+        "otazka": "Minerální draslík – Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_AMMO_QTE_DISPO",
+        "otazka": "Dusičnan amonný – Zbývající množství"
+      },
+      {
+        "kod": "SURF_SOLN_QTE_DISPO",
+        "otazka": "Kapalné dusíkaté hnojivo – Zbývající množství"
+      },
+      {
+        "kod": "SURF_UREE_QTE_DISPO",
+        "otazka": "Močovina – Zbývající množství"
+      },
+      {
+        "kod": "SURF_AUTN_QTE_DISPO",
+        "otazka": "Jiná dusíkatá hnojiva – Zbývající množství"
+      },
+      {
+        "kod": "SURF_AUTN_INHIB_QTE_DISPO",
+        "otazka": "Z toho dusíkaté hnojivo + inhibitor nitrifikace – Zbývající množství"
+      },
+      {
+        "kod": "SURF_P2O5_QTE_DISPO",
+        "otazka": "Minerální fosfor – Zbývající množství"
+      },
+      {
+        "kod": "SURF_K2O_QTE_DISPO",
+        "otazka": "Minerální draslík – Zbývající množství"
+      },
+      {
+        "kod": "SURF_EFF1_TYPE",
+        "otazka": "Aplikovaná odpadní látka"
+      },
+      {
+        "kod": "SURF_EFF1_QTE",
+        "otazka": "Aplikované množství"
+      },
+      {
+        "kod": "SURF_EFF1_HA",
+        "otazka": "Ošetřená plocha"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_DISPO",
+        "otazka": "Dostupné množství"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_CONSO",
+        "otazka": "Celkové spotřebované množství"
+      },
+      {
+        "kod": "SURF_EFF1_QTE_RES",
+        "otazka": "Zbývající množství"
+      },
+      {
+        "kod": "SURF_HA_LABOUREES",
+        "otazka": "Plochy, které byly během roku alespoň jednou orané"
+      },
+      {
+        "kod": "SURF_MO_HA",
+        "otazka": "Plochy upravené organickou hmotou"
+      },
+      {
+        "kod": "SURF_MONO_CULT_HA",
+        "otazka": "Plochy obhospodařované v monokulturách (3 roky)"
+      },
+      {
+        "kod": "SURF_NON_PHYTO_HA",
+        "otazka": "Plochy neošetřené přípravky na ochranu rostlin"
+      },
+      {
+        "kod": "SURF_DESHERB_MECA_HA",
+        "otazka": "Plochy mechanicky odplevelené"
+      },
+      {
+        "kod": "SURF_NB_SYS_CULTURE",
+        "otazka": "Počet pěstebních systémů včetně trvalých kultur"
+      },
+      {
+        "kod": "SURF_DUREE_MOY_ROTATIONS",
+        "otazka": "Průměrná doba střídání plodin"
+      },
+      {
+        "kod": "SURF_MODULE_AGRO_O_N",
+        "otazka": "Přejete si vyplnit modul agronomie?"
+      },
+      {
+        "kod": "SURF_IRRIG_M3_HA",
+        "otazka": "Závlahy – Množství dodané vody"
+      },
+      {
+        "kod": "SURF_IRRIG_HA",
+        "otazka": "Závlahy – závlažovaná plocha"
+      },
+      {
+        "kod": "SURF_IFT_HERBI",
+        "otazka": "Ukazatel frekvence ošetření herbicidem IFT"
+      },
+      {
+        "kod": "SURF_IFT_TOT",
+        "otazka": "Ukazatel frekvence celkového ošetření IFT"
+      },
+      {
+        "kod": "SURF_NB_HA_OUTIL",
+        "otazka": "Průměrný počet přejezdů techniky přepočtený na hektary"
+      },
+      {
+        "kod": "SURF_COUV_SOL_POURC",
+        "otazka": "% půdního pokryvu"
+      },
+      {
+        "kod": "SURF_HA_SAU",
+        "otazka": "Využívaná zemědělská plocha (VZP)"
+      },
+      {
+        "kod": "SURF_HA_SFP",
+        "otazka": "Hlavní krmná plocha (HKP)"
+      },
+      {
+        "kod": "SURF_HA_SAU_OV",
+        "otazka": "VZP jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_SFP_OV",
+        "otazka": "HKP jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_PAST_IND_OV",
+        "otazka": "Individuální pastviny jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_PAST_COLL_OV",
+        "otazka": "Společné pastviny jednotky masných ovcí"
+      },
+      {
+        "kod": "SURF_HA_HERBE",
+        "otazka": "Travní plocha"
+      },
+      {
+        "kod": "SURF_HA_CULT_TOT",
+        "otazka": "Plocha polních plodin"
+      },
+      {
+        "kod": "SURF_EPANDABLE",
+        "otazka": "Plocha určená k aplikaci hnojiv"
+      },
+      {
+        "kod": "SURF_HA_ROTATION",
+        "otazka": "Plocha travních porostů vyhrazená pro střídání plodin"
+      },
+      {
+        "kod": "SURF_DUREE_ROTATION",
+        "otazka": "Celková doba střídání plodin"
+      },
+      {
+        "kod": "SURF_DUREE_ROTATION_PRAIRIES",
+        "otazka": "Doba, po kterou jsou zavedeny travní porosty"
+      },
+      {
+        "kod": "SURF_PAILLE_RECOLTE",
+        "otazka": "Množství sklizené slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_VEND",
+        "otazka": "Z toho prodané množství slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_ACHAT",
+        "otazka": "Nakoupené množství slámy"
+      },
+      {
+        "kod": "SURF_PAILLE_DISPO",
+        "otazka": "Celkové množství slámy dostupné pro zvířata"
+      },
+      {
+        "kod": "SURF_PAILLE_RATION",
+        "otazka": "Je sláma součástí krmné dávky zvířat?"
+      },
+      {
+        "kod": "SURF_IAE_PP_NATURA",
+        "otazka": "Přirozené pastviny v  chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_PP_HORS_NATURA",
+        "otazka": "Přirozené pastviny mimo chráněnou oblast Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_BTAMPONS",
+        "otazka": "Ochranné pásy"
+      },
+      {
+        "kod": "SURF_IAE_VERGER",
+        "otazka": "Vysokokmenné ovocné sady"
+      },
+      {
+        "kod": "SURF_IAE_SP_NATURA",
+        "otazka": "Pastviny v chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_SP_HORS_NATURA",
+        "otazka": "Pastviny mimo chráněné oblasti Natura 2000"
+      },
+      {
+        "kod": "SURF_IAE_JACHERE",
+        "otazka": "Úhory"
+      },
+      {
+        "kod": "SURF_IAE_TOURBIERE",
+        "otazka": "Rašeliniště"
+      },
+      {
+        "kod": "SURF_IAE_ZONE_HER",
+        "otazka": "Plochy s bylinným pokryvem vyřazené z produkce"
+      },
+      {
+        "kod": "SURF_IAE_BORDURE",
+        "otazka": "Okraje polí"
+      },
+      {
+        "kod": "SURF_IAE_BORDURE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_AGROFORES",
+        "otazka": "Agrolesnictví a liniová výsadba stromů"
+      },
+      {
+        "kod": "SURF_IAE_AGROFORES_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_BOSQUET",
+        "otazka": "remízky"
+      },
+      {
+        "kod": "SURF_IAE_BOSQUET_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_BOIS",
+        "otazka": "Okraje lesa, skupiny stromů"
+      },
+      {
+        "kod": "SURF_IAE_BOIS_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_ARBRE",
+        "otazka": "Solitéry (jednotlivé stromy)"
+      },
+      {
+        "kod": "SURF_IAE_ARBRE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_HAIE",
+        "otazka": "Meze"
+      },
+      {
+        "kod": "SURF_IAE_HAIE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_FOSSE",
+        "otazka": "Příkopy, vodní toky"
+      },
+      {
+        "kod": "SURF_IAE_FOSSE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_MARE",
+        "otazka": "Tůně"
+      },
+      {
+        "kod": "SURF_IAE_MARE_PP",
+        "otazka": "% přiřazené k travním plochám"
+      },
+      {
+        "kod": "SURF_IAE_MURET",
+        "otazka": "Zídky, terasy"
+      },
+      {
+        "kod": "SURF_IAE_MURET_PP",
+        "otazka": "% přiřazené k travním plochám"
+      }
+    ],
+    "Ustájení a odpadní látky": [
+      {
+        "kod": "BAT_TPS",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_TPSBAT",
+        "otazka": "Počet celých dnů strávených ve stáji"
+      },
+      {
+        "kod": "BAT_TPSPAT",
+        "otazka": "Počet celých dnů strávených na pastvě"
+      },
+      {
+        "kod": "BAT_TPS5050",
+        "otazka": "Počet dnů 50–50 (napůl ve stáji a napůl na pastvě)"
+      },
+      {
+        "kod": "BAT_OV_BA_EFF",
+        "otazka": "Počet kusů"
+      },
+      {
+        "kod": "BAT_OV_BA_DUREE",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_OV_BA_BAT",
+        "otazka": "Počet celých dnů strávených ve stáji"
+      },
+      {
+        "kod": "BAT_OV_BA_PAT",
+        "otazka": "Počet celých dnů strávených na pastvě"
+      },
+      {
+        "kod": "BAT_OV_BA_BAT_PAT",
+        "otazka": "Počet dnů „50 % stáj – 50 % pastva\""
+      },
+      {
+        "kod": "BAT_TPS_OL_BL",
+        "otazka": "Doba sledování: Dojné bahnice"
+      },
+      {
+        "kod": "BAT_TPS_OL_ANT",
+        "otazka": "Doba přítomnosti: Mladé ovce nezařazené do reprodukce (bahnění ve 2 letech)"
+      },
+      {
+        "kod": "BAT_TPS_OL_AGL",
+        "otazka": "Doba sledování: Jehnice (narozené během kampaně)"
+      },
+      {
+        "kod": "BAT_TPS_OL_BEL",
+        "otazka": "Doba sledování: Berani"
+      },
+      {
+        "kod": "BAT_OL_BL_BAT_1",
+        "otazka": "Počet hodin ve stáji za 24 h"
+      },
+      {
+        "kod": "BAT_OL_BL_PAT_1",
+        "otazka": "Počet hodin venku za 24 h"
+      },
+      {
+        "kod": "BAT_OL_BL_DEB_1",
+        "otazka": "Datum začátku období"
+      },
+      {
+        "kod": "BAT_OL_BL_FIN_1",
+        "otazka": "Datum konce období"
+      },
+      {
+        "kod": "BAT_OL_BL_JOURS_1",
+        "otazka": "Počet dnů"
+      },
+      {
+        "kod": "BAT_TPS_CA_CH",
+        "otazka": "Doba sledování"
+      },
+      {
+        "kod": "BAT_P1_TPSBAT",
+        "otazka": "Počet hodin ve stáji za 24 h"
+      },
+      {
+        "kod": "BAT_P1_DEB_CH",
+        "otazka": "Datum začátku období"
+      },
+      {
+        "kod": "BAT_P1_FIN_CH",
+        "otazka": "Datum konce období"
+      },
+      {
+        "kod": "BAT_P1_JOURS_CH",
+        "otazka": "Počet dnů"
+      },
+      {
+        "kod": "BAT_TYPE",
+        "otazka": "Typ stáje nebo podestýlky"
+      },
+      {
+        "kod": "BAT_PART_FM_VL",
+        "otazka": "% Měkká chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_FC_VL",
+        "otazka": "% Kompaktní chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_FTC_VL",
+        "otazka": "% Velmi kompaktní chlévská mrva"
+      },
+      {
+        "kod": "BAT_PART_LISIER_VL",
+        "otazka": "% Kejda"
+      },
+      {
+        "kod": "BAT_FUMIER_PROD",
+        "otazka": "Množství hovězího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_LISIER_PROD",
+        "otazka": "Množství hovězí kejdy vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_PROD",
+        "otazka": "Množství ovčího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_LISIER_OV_PROD",
+        "otazka": "Množství ovčí kejdy vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_PROD",
+        "otazka": "Množství kozího hnoje vyprodukované v hospodářství"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_ON",
+        "otazka": "Nechává se chlévská mrva vyzrát?"
+      },
+      {
+        "kod": "BAT_FUMIER_TPS_STOCK",
+        "otazka": "Jaká je průměrná doba skladování hnoje?"
+      },
+      {
+        "kod": "BAT_LISIER_TYPE_FOSSE",
+        "otazka": "Jaký je převládající typ jímky na kejdu?"
+      },
+      {
+        "kod": "BAT_LISIER_TPS_STOCK",
+        "otazka": "Jaká je průměrná doba skladování kejdy nebo digestátu v případě využití BPS?"
+      },
+      {
+        "kod": "BAT_AUT_EFF1",
+        "otazka": "Jiné odpadní látky 1"
+      },
+      {
+        "kod": "BAT_AUT_EFF2",
+        "otazka": "Jiné odpadní látky 2"
+      },
+      {
+        "kod": "BAT_FUMIER_ACH",
+        "otazka": "Množství chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_ACH",
+        "otazka": "Množství hovězího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_ACH",
+        "otazka": "Množství hovězí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_ACH",
+        "otazka": "Množství ovčí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_ACH",
+        "otazka": "Množství ovčího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_OV_ACH",
+        "otazka": "Množství ovčí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_ACH",
+        "otazka": "Množství kozí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_ACH",
+        "otazka": "Množství kozího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_PORC_ACH",
+        "otazka": "Množství prasečí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_VOL_ACH",
+        "otazka": "Množství drůbeží podestýlky nebo drůbeží kejdy "
+      },
+      {
+        "kod": "BAT_AUT_EFF1_ACH",
+        "otazka": "Množství jiných odpadních látek 1"
+      },
+      {
+        "kod": "BAT_AUT_EFF2_ACH",
+        "otazka": "Množství jiných odpadních látek 2"
+      },
+      {
+        "kod": "BAT_X_ACH_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_X_ACH_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_FUMIER_VEND",
+        "otazka": "Množství hovězího chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_VEND",
+        "otazka": "Množství hovězího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_VEND",
+        "otazka": "Množství hovězí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_VEND",
+        "otazka": "Množství ovčí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_VEND",
+        "otazka": "Množství ovčího hnoje"
+      },
+      {
+        "kod": "BAT_LISIER_OV_VEND",
+        "otazka": "Množství ovčí kejdy"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_VEND",
+        "otazka": "Množství kozí chlévské mrvy"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_VEND",
+        "otazka": "Množství kozího hnoje"
+      },
+      {
+        "kod": "BAT_X_VEND_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_X_VEND_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_FUMIER_EP_VITESSE",
+        "otazka": "U plodin (pícnin a tržních plodin) je hnůj převážně zaorán:"
+      },
+      {
+        "kod": "BAT_LISIER_EP_TYPE",
+        "otazka": "Jaký typ rozmetadla kejdy se převážně používá pro aplikaci na plodiny?"
+      },
+      {
+        "kod": "BAT_LISIER_EP_VITESSE",
+        "otazka": "U plodin (pícnin a tržních plodin) je kejda převážně zapravována do půdy:"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_QTE",
+        "otazka": "Množství vyprodukované syrovátky"
+      },
+      {
+        "kod": "BAT_TRANSFO_EAU_BLANCHE_QTE",
+        "otazka": "Množství vyprodukované bílé vody"
+      },
+      {
+        "kod": "BAT_TRANSFO_x_N",
+        "otazka": "Obsah N"
+      },
+      {
+        "kod": "BAT_TRANSFO_x_P2O5",
+        "otazka": "Obsah P2O5"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_ANX_O_N",
+        "otazka": "Je syrovátka zkrmována zvířatům chovaným v hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_ANX_QTE",
+        "otazka": "Jaké množství syrovátky je zkrmováno v hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_EXPORT_QTE",
+        "otazka": "Jaké množství syrovátky je předáno jinému hospodářství?"
+      },
+      {
+        "kod": "BAT_TRANSFO_LACTO_VALO_QTE",
+        "otazka": "Celkové množství syrovátky využité zvířaty"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_COMMUN_O_N",
+        "otazka": "Jsou syrovátka a bílá voda ze sýrárny spravovány společně?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF",
+        "otazka": "Jaký je převládající systém nakládání s odpadními látkami ze sýrárny?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_LACTO",
+        "otazka": "Jaký je převládající systém nakládání se syrovátkou?"
+      },
+      {
+        "kod": "BAT_TRANSFO_GESTION_EFF_EAU_BLANCHE",
+        "otazka": "Jaký je převládající systém nakládání s bílou vodou ze sýrárny?"
+      },
+      {
+        "kod": "BAT_FUMIER_EP_QTE",
+        "otazka": "Množství hovězího chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_OV_EP_QTE",
+        "otazka": "Množství ovčí chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_CA_EP_QTE",
+        "otazka": "Množství kozí chlévské mrvy k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_EP_QTE",
+        "otazka": "Množství hovězího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_OV_EP_QTE",
+        "otazka": "Množství ovčího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_FUMIER_COMPOST_CA_EP_QTE",
+        "otazka": "Množství kozího hnoje k aplikaci"
+      },
+      {
+        "kod": "BAT_LISIER_EP_QTE",
+        "otazka": "Množství hovězí kejdy k aplikaci"
+      },
+      {
+        "kod": "BAT_LISIER_OV_EP_QTE",
+        "otazka": "Množství ovčí kejdy k aplikaci"
+      },
+      {
+        "kod": "BAT_EFFLUENT_TRANSFO_EP_QTE",
+        "otazka": "Množství odpadních látek ze sýrárny k aplikaci"
+      }
+    ]
+  }
+}
